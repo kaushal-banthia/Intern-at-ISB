@@ -1,0 +1,1183 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ij6Oxi5ylBw3Mqc+rO/zeuPpE0CSI5PKaC7TJavDPk2gzG8GOIQIJlDgbRRhHoFu
+ ZJ+bkhR3M1DS9j6xxAn5bw==
+
+<SEC-DOCUMENT>0000930661-98-000536.txt : 19980323
+<SEC-HEADER>0000930661-98-000536.hdr.sgml : 19980323
+ACCESSION NUMBER:		0000930661-98-000536
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19980508
+FILED AS OF DATE:		19980319
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEXAS UTILITIES CO /TX/
+		CENTRAL INDEX KEY:			0001023291
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				752669310
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-12833
+		FILM NUMBER:		98568674
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O TEXAS UTILITIES CO
+		STREET 2:		1601 BRYAN ST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2148124600
+
+	MAIL ADDRESS:	
+		STREET 1:		TEXAS UTILITIES CO
+		STREET 2:		1601 BRYAN STREET
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TUC HOLDING CO
+		DATE OF NAME CHANGE:	19960919
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEFINITIVE PROXY STATEMENT
+<TEXT>
+
+<PAGE>
+ 
+================================================================================
+ 
+                           SCHEDULE 14A INFORMATION
+
+          Proxy Statement Pursuant to Section 14(a) of the Securities
+                    Exchange Act of 1934 (Amendment No.  )
+        
+Filed by the Registrant [X]
+
+Filed by a Party other than the Registrant [_] 
+
+Check the appropriate box:
+
+[_]  Preliminary Proxy Statement        [_]  Confidential, for Use of the 
+                                             Commission Only (as permitted by
+                                             Rule 14a-6(e)(2))
+[X]  Definitive Proxy Statement 
+
+[_]  Definitive Additional Materials 
+
+[_]  Soliciting Material Pursuant to Section 240.14a-11(c) or Section 240.14a-12
+
+                            Texas Utilities Company
+- --------------------------------------------------------------------------------
+               (Name of Registrant as Specified In Its Charter)
+
+                            Texas Utilities Company
+- --------------------------------------------------------------------------------
+   (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+   
+Payment of Filing Fee (Check the appropriate box):
+
+[X]  No fee required.
+
+[_]  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+
+   
+     (1) Title of each class of securities to which transaction applies:
+
+     -------------------------------------------------------------------------
+
+
+     (2) Aggregate number of securities to which transaction applies:
+
+     -------------------------------------------------------------------------
+
+
+     (3) Per unit price or other underlying value of transaction computed
+         pursuant to Exchange Act Rule 0-11 (Set forth the amount on which
+         the filing fee is calculated and state how it was determined):
+
+     -------------------------------------------------------------------------
+      
+
+     (4) Proposed maximum aggregate value of transaction:
+
+     -------------------------------------------------------------------------
+
+
+     (5) Total fee paid:
+
+     -------------------------------------------------------------------------
+
+[_]  Fee paid previously with preliminary materials.
+     
+[_]  Check box if any part of the fee is offset as provided by Exchange
+     Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee
+     was paid previously. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+     
+     (1) Amount Previously Paid:
+ 
+     -------------------------------------------------------------------------
+
+
+     (2) Form, Schedule or Registration Statement No.:
+
+     -------------------------------------------------------------------------
+
+
+     (3) Filing Party:
+      
+     -------------------------------------------------------------------------
+
+
+     (4) Date Filed:
+
+     -------------------------------------------------------------------------
+
+Notes:
+
+
+<PAGE>
+ 
+ 
+                            TEXAS UTILITIES COMPANY
+ 
+                                 Energy Plaza
+                               1601 Bryan Street
+                           Dallas, Texas 75201-3411
+ 
+                              ------------------
+ 
+                   NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+ 
+                              ------------------
+ 
+                                                                 March 19, 1998
+ 
+To the Shareholders of
+ Texas Utilities Company:
+ 
+  The annual meeting of shareholders of Texas Utilities Company will be held
+in the Alexandria Auditorium of the Infomart, 1950 Stemmons Freeway, Dallas,
+Texas on Friday, May 8, 1998 at 9:30 a.m. for the following purposes:
+ 
+  1.  To elect a Board of Directors for the ensuing year; and
+ 
+  2.  To approve the selection of auditors for the year 1998.
+ 
+  The Board of Directors has fixed the close of business on March 9, 1998 as
+the time as of which shareholders entitled to notice of, and to vote at, the
+meeting and any adjournments shall be determined.
+ 
+  WHETHER OR NOT YOU WILL BE ABLE TO ATTEND THE MEETING, PLEASE SIGN AND
+RETURN THE ACCOMPANYING PROXY PROMPTLY. NO POSTAGE NEED BE AFFIXED TO THE
+REPLY ENVELOPE WHICH IS ENCLOSED HEREWITH FOR YOUR CONVENIENCE IF IT IS MAILED
+IN THE UNITED STATES.
+ 
+                                               Peter B. Tinkham
+                                               Secretary
+<PAGE>
+ 
+                            TEXAS UTILITIES COMPANY
+ 
+                                 Energy Plaza
+                               1601 Bryan Street
+                           Dallas, Texas 75201-3411
+ 
+                              ------------------
+ 
+                                PROXY STATEMENT
+ 
+                              ------------------
+                                                                 March 19, 1998
+ 
+  A proxy in the accompanying form is solicited by the Board of Directors of
+TEXAS UTILITIES COMPANY for use at the annual meeting of shareholders to be
+held in the Alexandria Auditorium of the Infomart, 1950 Stemmons Freeway,
+Dallas, Texas, on Friday, May 8, 1998, at 9:30 a.m. and any adjournments
+thereof for the purposes set forth in the accompanying notice.
+ 
+  The close of business on March 9, 1998 has been fixed as the time as of
+which shareholders entitled to notice of, and to vote with respect to, this
+meeting shall be determined. At such date there were outstanding and entitled
+to vote 245,237,688 shares of common stock. Except as indicated below, each
+share is entitled to one vote on all matters submitted to shareholders.
+ 
+  Any shareholder may exercise the right of cumulative voting in the election
+of directors provided the shareholder gives written notice of such intention
+to the Secretary of the Company on or before the date preceding the election.
+When exercising this right the shareholder is entitled to one vote for each
+share held multiplied by the number of directors to be elected and he may cast
+all of his votes for a single nominee or spread his votes among the nominees
+in any manner desired.
+ 
+  This Notice, Proxy Statement and form of proxy are being mailed or given to
+shareholders on or about March 19, 1998.
+ 
+  The cost of soliciting proxies will be borne by the Company. In addition to
+use of the mails, proxies may be solicited by directors, officers and regular
+employees of the Company in person or by telephone. The Company has hired D.
+F. King & Co., Inc. to assist in the solicitation of proxies at an estimated
+cost of $7,500 plus disbursements. Shareholders may assist the Company in
+avoiding expenses in this connection by returning their proxies promptly.
+ 
+                                       1
+<PAGE>
+ 
+  Any proxy delivered pursuant to this solicitation is revocable at the option
+of the person executing the same at any time prior to the exercise thereof.
+The shares represented by any proxy duly given as a result of this request
+will be voted in the discretion of the persons named in the proxy unless the
+shareholder specifies a choice by means of the ballot space on the proxy, in
+which case the shares will be voted accordingly.
+ 
+  The Company has adopted a confidential voting policy. Accordingly,
+tabulation of proxies and votes cast at the meeting will be conducted by an
+independent agent and the votes of individual shareholders will be kept
+private and not disclosed to the Company, except in limited circumstances.
+ 
+  The presence in person or by proxy of the holders of a majority of the
+shares of the common stock entitled to vote shall constitute a quorum entitled
+to transact business at the meeting. Directors are elected by plurality vote
+of the votes cast at the meeting; abstentions and non-votes, as described
+below, will have no effect. The approval of the selection of auditors requires
+the affirmative vote of a majority of the shares represented at the meeting;
+abstentions and non-votes, i.e. shares held by brokers and other nominees or
+fiduciaries that are present at the meeting but not voted on such matter, will
+be treated as negative votes.
+ 
+                  1999 ANNUAL MEETING SHAREHOLDERS' PROPOSALS
+ 
+  All proposals from shareholders to be considered at the next annual meeting
+scheduled for May 21, 1999 must be received by the Secretary of the Company,
+Energy Plaza, 1601 Bryan Street, Dallas, Texas 75201-3411, not later than the
+close of business on November 19, 1998.
+ 
+                             ELECTION OF DIRECTORS
+ 
+  It is the intent of the Board of Directors that the persons named in the
+proxy will vote your shares in favor of the nominees for directors listed
+hereafter, unless authority is withheld. All of the nominees are current
+members of the Board of Directors and have been nominated by the Nominating
+Committee. The persons named in the proxy may cumulate the votes represented
+thereby and in case any such nominee shall become unavailable, which the Board
+of Directors has no reason to anticipate, may vote for a substitute.
+ 
+                                       2
+<PAGE>
+ 
+  The names of the nominees for the office of director for the ensuing year
+and information about them, as furnished by the nominees themselves, are set
+forth below:
+ 
+<TABLE>
+<CAPTION>
+                               SERVED AS
+          NAME           AGE DIRECTOR SINCE   BUSINESS EXPERIENCE DURING PAST FIVE YEARS
+          ----           --- --------------   ------------------------------------------
+<S>                      <C> <C>            <C>
+J. S. Farrington
+ (2)(5).................  63      1983      Chairman Emeritus of the Company since May
+                                             1997; prior thereto Chairman of the Board of
+                                             the Company (May 1995--May 1997); prior
+                                             thereto Chairman of the Board and Chief
+                                             Executive of the Company (February 1987--May
+                                             1995); prior thereto President of the
+                                             Company (May 1983--February 1987).
+Bayard H. Friedman
+ (1)(2)(3)(4)(6)........  71      1991      Friedman & Uhlemeyer, Inc., Investment
+                                             Adviser, since December 1992. Prior thereto,
+                                             Senior Chairman and Director, Team Bank
+                                             (January 1990--November 1992).
+                                             A Director of Justin Industries.
+William M. Griffin
+ (1)(3)(4)(6)(7)........  71      1966      Principal, Griffin, Swanson & Co., Inc.
+                                             (investments). Executive Vice President
+                                             (until August 1985) and Chairman of the
+                                             Finance Committees (until March 1986) of The
+                                             Hartford Fire Insurance Company and
+                                             Subsidiaries. A Director of The Hartford
+                                             Fire Insurance Company (until March 1991)
+                                             and Shawmut National Corporation (until
+                                             April 1992).
+Kerney Laday
+ (1)(3)(4)(6)(7)........  56      1993      President, The Laday Company (management
+                                             consulting and business development) since
+                                             July 1995; prior thereto Vice President,
+                                             field operations, Southern Region, U. S.
+                                             Customer Operations, Xerox Corporation
+                                             (January 1991--June 1995); prior thereto
+                                             Vice President and region general manager,
+                                             Xerox (1986--1991).
+Margaret N. Maxey
+ (1)(2)(3)(4)(6)........  71      1984      Director, Clint W. Murchison, Sr. Chair of
+                                             Free Enterprise and Professor, Biomedical
+                                             Engineering Program, College of Engineering,
+                                             The University of Texas at Austin since
+                                             1982; prior thereto Assistant Director,
+                                             Energy Research Institute, Columbia, South
+                                             Carolina (1980--1982).
+James A. Middleton
+ (1)(3)(4)(5)(6)(7).....  62      1989      Chairman of the Board and Chief Executive
+                                             Officer, Crown Energy Company (oil and gas
+                                             producing and tar sands processing) since
+                                             January 1996; prior thereto Executive Vice
+                                             President (October 1987--December 1994) and
+                                             Senior Vice President (June 1981--October
+                                             1987) of Atlantic Richfield Company.
+                                             President, ARCO Oil and Gas Company,
+                                             (January 1985--October 1990). A Director of
+                                             Crown Energy Company, ARCO Chemical Company
+                                             and Berry Petroleum Co.
+</TABLE>
+ 
+                                       3
+<PAGE>
+ 
+<TABLE>
+<CAPTION>
+                               SERVED AS
+          NAME           AGE DIRECTOR SINCE   BUSINESS EXPERIENCE DURING PAST FIVE YEARS
+          ----           --- --------------   ------------------------------------------
+<S>                      <C> <C>            <C>
+Erle Nye
+ (2)(5)(7)..............  60      1987      Chairman of the Board and Chief Executive of
+                                             the Company since May 1997; prior thereto
+                                             President and Chief Executive of the Company
+                                             (May 1995--May 1997); prior thereto
+                                             President of the Company (February 1987--May
+                                             1995); Chairman of the Board and Chief
+                                             Executive, and a Director, of TU Electric
+                                             and ENSERCH Corporation.
+J. E. Oesterreicher
+ (1)(3)(4)(6)...........  56      1996      Chairman of the Board of J C Penney Company,
+                                             Inc. (retailer) since January 1997 and Chief
+                                             Executive Officer since January 1995; Vice
+                                             Chairman of the Board from 1995 to 1997;
+                                             President, J C Penney Stores and Catalog
+                                             from 1992 to 1995. A Director of J C Penney
+                                             Company, Inc. and Brinker International,
+                                             Inc.
+Charles R. Perry
+ (1)(2)(3)(4)(5)(6).....  68      1985      Oil and gas interests, private investments.
+                                             Chairman of the Board of Perry Management,
+                                             Inc., Avion Flight Centre, Inc. and Perry
+                                             Gas Companies, Inc.
+Herbert H. Richardson
+ (1)(3)(4)(5)(6)........  67      1992      Associate Vice Chancellor for Engineering and
+                                             Director, Texas Transportation Institute,
+                                             The Texas A&M University System; Associate
+                                             Dean of Engineering, Regents Professor and
+                                             Distinguished Professor of Engineering,
+                                             Texas A&M University; Chancellor, The Texas
+                                             A&M University System (1991--1993) and
+                                             Deputy Chancellor for Engineering, The Texas
+                                             A&M University System (1986--1991).
+</TABLE>
+- ---------
+(1) Member of Audit Committee.
+(2) Member of Executive Committee.
+(3) Member of Finance Committee.
+(4) Member of Nominating Committee.
+(5) Member of Nuclear Committee.
+(6) Member of Organization and Compensation Committee.
+(7) Member of Business Development Committee.
+ 
+                                       4
+<PAGE>
+ 
+  During 1997 the Board of Directors held five meetings. The standing
+committees of the Board of Directors and the membership of each committee are
+shown on the preceding pages. During 1997 each of the Directors attended more
+than 92% of the aggregate of the Board of Directors meetings and the meetings
+of the Committees on which they serve.
+ 
+  The Audit Committee nominates to the Board, for approval by the shareholders
+at each annual meeting, a firm of independent auditors to audit the books of
+account and records of the Company and to perform such other duties as this
+Committee may prescribe or approve, receives the reports and comments from
+such independent auditors, reviews the adequacy of internal controls, reviews
+the accounting principles employed in financial reporting and takes any action
+with respect thereto as it may deem appropriate, reports to the Board of
+Directors upon its findings and recommendations and performs such other duties
+as may be assigned to it from time to time by the Board; the Audit Committee
+held three meetings during 1997. The Executive Committee exercises the
+authority of the Board in the intervals between meetings of the Board; the
+Executive Committee did not meet during 1997. The Finance Committee reviews
+and recommends to the Board, for its consideration, major financial
+undertakings and policies and performs such other duties as may be assigned to
+it from time to time by the Board; the Finance Committee held two meetings
+during 1997. The Nominating Committee selects and recommends to the Board, for
+its consideration, persons as nominees for election as directors of the
+Company and performs such other duties as may be assigned to it from time to
+time by the Board; the Nominating Committee held one meeting in 1997.
+Shareholders may recommend nominees for directors to the Nominating Committee
+by writing to the Secretary of the Company, Energy Plaza, 1601 Bryan Street,
+Dallas, Texas 75201-3411. The Nuclear Committee reviews, generally oversees,
+and makes reports and recommendations to the Board in connection with, the
+operation of the Company's nuclear generating units; the Nuclear Committee
+held seven meetings during 1997. The Organization and Compensation Committee
+reviews and establishes the duties, titles and remuneration of officers of the
+Company; the Organization and Compensation Committee held three meetings in
+1997. A Business Development Committee was established by the Board in 1997.
+The Business Development Committee reviews and recommends to the Board, for
+its consideration, new business opportunities, proposed acquisitions and other
+transactions and performs such other duties as may be assigned to it from time
+to time by the Board; the Business Development Committee held three meetings
+during 1997.
+ 
+  Non-officer directors were compensated in 1997 by a retainer fee at the
+annual rate of $25,000 plus $1,500 for each Board meeting attended and $1,000
+for each committee meeting attended. Additionally, non-officer directors who
+are members of the Nuclear Committee receive an annual retainer fee of $10,000
+for their services on that Committee. Directors who are officers of the
+Company do not receive any fees for service as a director.
+ 
+                                       5
+<PAGE>
+ 
+All directors are reimbursed for expenses. Non-officer directors may elect to
+defer, in increments of 25%, all or a portion of their annual Board retainer
+pursuant to the Deferred Compensation Plan for Outside Directors (Directors'
+Plan). Amounts deferred are matched by the Company. Under the Directors' Plan,
+a trustee purchases Company common stock with an amount of cash equal to each
+participant's deferred retainer and matching amount, and accounts are
+established for each participant containing performance units equal to such
+number of common shares. Directors' Plan investments, including reinvested
+dividends, are restricted to Company common stock. On the expiration of the
+applicable maturity period (not fewer than three nor more than ten years, as
+selected by the participant) or upon death or disability while serving as a
+director, the value of the participant's accounts is paid in cash based on the
+then current value of the performance units.
+ 
+              BENEFICIAL OWNERSHIP OF COMMON STOCK OF THE COMPANY
+ 
+  Each nominee for director and certain executive officers reported beneficial
+ownership of common stock of the Company, as of the date hereof, as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                        NUMBER OF SHARES
+                                                 -------------------------------
+                                                 BENEFICIALLY  DEFERRED
+NAME                                                 OWNED     PLANS (1)  TOTAL
+- ----                                             ------------- --------- -------
+<S>                                              <C>           <C>       <C>
+J. S. Farrington...............................      20,418      52,275   72,693
+Bayard H. Friedman (2).........................       2,416       4,421    6,837
+William M. Griffin.............................      30,000       4,421   34,421
+Kerney Laday...................................         600       4,421    5,021
+Margaret N. Maxey..............................       5,097       4,421    9,518
+James A. Middleton.............................       3,000       4,421    7,421
+Erle Nye.......................................      49,466      54,462  103,928
+J. E. Oesterreicher............................       1,600       2,013    3,613
+Charles R. Perry...............................       1,000       4,421    5,421
+Herbert H. Richardson..........................       1,700       1,791    3,491
+H. Jarrell Gibbs...............................      14,323      23,494   37,817
+W. M. Taylor...................................      14,847      21,850   36,697
+Michael J. McNally.............................      20,551      10,688   31,239
+All Directors and Executive Officers as a group
+ (14 persons)..................................     180,290     193,099  373,389
+</TABLE>
+- ---------
+ 
+                                       6
+<PAGE>
+ 
+(1) Share units held in deferred compensation accounts under the Deferred and
+    Incentive Compensation Plan or the Directors' Plan. Although these plans
+    allow such units to be paid only in the form of cash, investments in such
+    units create essentially the same investment stake in the performance of
+    the Company's common stock as do investments in actual shares of common
+    stock.
+ 
+(2) In addition to the shares reported above, clients of Mr. Friedman's
+    investment advisory firm own 1,480 shares of the common stock of the
+    Company. Mr. Friedman disclaims any beneficial interest in such shares.
+ 
+  The named individuals have voting and investment power for the shares of
+common stock reported as Beneficially Owned. Ownership of such common stock by
+each individual director and executive officer and for all directors and
+executive officers as a group constituted less than 1% of the Company's
+outstanding shares.
+ 
+  The Company has no knowledge of any person who beneficially owned more than
+5% of the common stock of the Company as of December 31, 1997. Mellon Bank,
+N.A. (Mellon), held as of such date in its capacity as Trustee of the
+Employees' Thrift Plan of the Texas Utilities Company System (Thrift Plan), a
+total of 12,259,617 shares of the Company's common stock, or 5.0% of the
+outstanding common shares, of which 6,879,589 shares, or 2.8% of the
+outstanding shares, have been allocated to Thrift Plan participants' accounts.
+Thrift Plan participants are entitled to direct Mellon as to how to vote
+shares allocated to their accounts and Mellon disclaims beneficial ownership
+of such allocated shares.
+ 
+                                       7
+<PAGE>
+ 
+                            EXECUTIVE COMPENSATION
+ 
+  The Company and its subsidiaries have paid or awarded compensation during
+the last three calendar years to the following executive officers for services
+in all capacities:
+ 
+                          SUMMARY COMPENSATION TABLE
+ 
+<TABLE>
+<CAPTION>
+                                ANNUAL COMPENSATION    LONG-TERM COMPENSATION (2)
+                              ----------------------- -----------------------------
+                                                             AWARDS         PAYOUTS
+                                                      --------------------- -------
+                                               OTHER                                  ALL
+                                              ANNUAL             SECURITIES          OTHER
+                                              COMPEN- RESTRICTED UNDERLYING  LTIP   COMPEN-
+        NAME AND              SALARY   BONUS  SATION    STOCK     OPTIONS/  PAYOUTS SATION
+   PRINCIPAL POSITION    YEAR   ($)   ($) (1)   ($)   AWARDS ($)  SARS (#)    ($)   ($) (3)
+   ------------------    ---- ------- ------- ------- ---------- ---------- ------- -------
+<S>                      <C>  <C>     <C>     <C>     <C>        <C>        <C>     <C>
+Erle Nye, .............. 1997 760,417 325,000   --     499,375      --      23,928  143,963
+ Chairman of the Board   1996 723,333 185,000   --     351,500      --           0  117,908
+ and Chief Executive of  1995 679,167 140,000   --     266,000      --      25,602   87,810
+ the Company
+J. S. Farrington, ...... 1997 639,891 150,000   --     284,114      --      31,905  140,821
+ Chairman of the Board   1996 752,813 157,782   --     315,563      --           0  128,336
+ of the Company (until   1995 825,000 165,000   --     313,500      --      34,135  105,671
+ May 1997) (4)
+H. Jarrell Gibbs, ...... 1997 354,583 103,000   --     185,125      --       8,432   66,226
+ Vice Chairman of the    1996 321,250 113,000   --     189,500      --           0   53,203
+ Board of the Company    1995 282,917  67,200   --     120,300      --       9,102   38,702
+W. M. Taylor, .......... 1997 339,583  83,000   --     161,750      --       9,343   59,948
+ President, Generation   1996 312,500  83,500   --     156,625      --           0   49,530
+ Division--TU Electric   1995 282,917  64,700   --     117,800      --      10,809   38,278
+Michael J. McNally, .... 1997 279,167 105,000   --     172,500      --           0  103,630
+ Executive Vice          1996 229,166  75,000   --     131,250      --           0   97,949
+ President and Chief     1995 170,833       0   --           0      --           0        0
+ Financial Officer of
+ the Company
+</TABLE>
+- ---------
+(1) Amounts reported as Bonus in the Summary Compensation Table are
+    attributable to the named officer's participation in the Annual Incentive
+    Plan (AIP). Elected corporate officers of the Company and its
+    participating subsidiaries with a title of Vice President or above are
+    eligible to participate in the AIP. Under the terms of the AIP, target
+    incentive awards ranging from 35% to 50% of base salary, and a maximum
+    award of 100% of base salary, are established. The percentage of the
+    target or the maximum actually awarded, if any, is dependent upon the
+    attainment of per share net income goals established in advance by the
+    Organization and Compensation Committee
+ 
+                                       8
+<PAGE>
+ 
+    (Committee) as well as the Committee's evaluation of the participant's and
+    the Company's performance. One-half of each such award is paid in cash and
+    is reflected as Bonus in the Summary Compensation Table. Payment of the
+    remainder of the award is deferred under the Deferred and Incentive
+    Compensation Plan (DICP) discussed hereinafter in footnote (2).
+ 
+(2) Amounts reported as Long-Term Compensation are attributable to the named
+    officer's participation in the DICP. Elected corporate officers of the
+    Company and its participating subsidiaries with the title of Vice
+    President or above are eligible to participate in the DICP. Participants
+    in the DICP may defer a percentage of their base salary not to exceed a
+    maximum percentage determined by the Committee for each Plan year and in
+    any event not to exceed 15% of the participant's base salary. The Company
+    makes a matching award (Matching Award) equal to 150% of the participant's
+    deferred salary. In addition, one-half of any AIP award (Incentive Award)
+    is deferred and invested under the DICP. The Matching Awards and Incentive
+    Awards are subject to forfeiture under certain circumstances. Under the
+    DICP, a trustee purchases Company common stock with an amount of cash
+    equal to each participant's deferred salary, Matching Award and Incentive
+    Award, and accounts are established for each participant containing
+    performance units (Units) equal to such number of common shares. DICP
+    investments, including reinvested dividends, are restricted to Company
+    common stock. On the expiration of the applicable maturity period (three
+    years for the Incentive Awards and five years for deferred salary and
+    Matching Awards), the values of the participant's accounts are paid in
+    cash based upon the then current value of the Units; provided, however,
+    that in no event will a participant's account be deemed to have a cash
+    value which is less than the sum of such participant's deferred salary
+    together with a 6% per annum (compounded annually) interest equivalent
+    thereon. The maturity period is waived if the participant dies or becomes
+    totally and permanently disabled and may be extended under certain
+    circumstances.
+ 
+    Incentive Awards and Matching Awards that have been made under the DICP are
+    included under Restricted Stock Awards in the Summary Compensation Table for
+    each of the last three years. As a result of these awards, undistributed
+    Incentive Awards and Matching Awards made under the DICP in prior years, and
+    dividends reinvested thereon, the number and market value of such Units at
+    December 31, 1997 (each of which is equal to one share of common stock) held
+    in the DICP accounts for Messrs. Nye, Farrington, Gibbs, Taylor and McNally
+    were 39,725 ($1,648,588), 36,466 ($1,513,339), 17,134 ($711,061), 15,597
+    ($647,276) and 8,299 ($344,409), respectively.
+ 
+                                       9
+<PAGE>
+ 
+    The Long-Term Incentive Compensation Plan (LTICP) is a comprehensive, stock-
+    based incentive compensation plan providing for discretionary grants of
+    common stock-based awards, including restricted stock. Outstanding awards to
+    named executive officers vest over a three year period and such executive
+    officers may earn from 0% to 200% of the number of shares awarded based on
+    the Company's total return to shareholders over such three year period
+    compared to the total return provided by the companies comprising the
+    Standard & Poor's Electric Utility Index. Dividends are paid and reinvested
+    on such restricted stock awards at the same rate as dividends on the
+    Company's common stock. As a result of restricted stock awards under the
+    LTICP, and dividends reinvested thereon, the number of shares of restricted
+    stock and the value of such shares at December 31, 1997 held for Messrs.
+    Nye, Farrington, Gibbs, Taylor and McNally were 22,666 ($940,639),-0-
+    ($-0-), 5,151 ($213,767), 4,121 ($171,022) and 11,333 ($470,320),
+    respectively.
+ 
+    Salary deferred under the DICP is included in amounts reported as Salary in
+    the Summary Compensation Table. Amounts shown in the table below represent
+    the number of shares purchased under the DICP with such deferred salaries
+    for 1997 and the number of shares awarded under the LTICP:
+ 
+             LONG-TERM INCENTIVE PLANS--AWARDS IN LAST FISCAL YEAR
+ 
+<TABLE>
+<CAPTION>
+                            DEFERRED AND INCENTIVE
+                               COMPENSATION PLAN          LONG-TERM INCENTIVE COMPENSATION PLAN
+                            ----------------------- ----------------------------------------------------
+                            NUMBER OF  PERFORMANCE  NUMBER OF  PERFORMANCE
+                             SHARES,     OR OTHER    SHARES,     OR OTHER
+             NAME            UNITS OR  PERIOD UNTIL  UNITS OR  PERIOD UNTIL ESTIMATED FUTURE PAYOUTS
+             ----             OTHER     MATURATION    OTHER     MATURATION  ----------------------------
+                            RIGHTS (#)  OR PAYOUT   RIGHTS (#)  OR PAYOUT   MINIMUM (#)    MAXIMUM (#)
+                            ---------- ------------ ---------- ------------ ------------   -------------
+   <S>                      <C>        <C>          <C>        <C>          <C>            <C>
+   Erle Nye................   3,305      5 Years      22,000     3 Years                 0          44,000
+   J. S. Farrington........   2,542      5 Years           0          --                 0               0
+   H. Jarrell Gibbs........   1,556      5 Years       5,000     3 Years                 0          10,000
+   W. M. Taylor............   1,492      5 Years       4,000     3 Years                 0           8,000
+   Michael J. McNally......   1,279      5 Years      11,000     3 Years                 0          22,000
+</TABLE>
+ 
+     Amounts reported as LTIP Payouts in the Summary Compensation Table
+     represent payouts maturing during such years of earnings on salary deferred
+     under the DICP in prior years.
+ 
+(3)  Amounts reported as All Other Compensation are attributable to the named
+     officer's participation in certain plans and as otherwise described
+     hereinafter in this footnote.
+ 
+                                      10
+<PAGE>
+ 
+    Under the Employees' Thrift Plan of the Texas Utilities Company System
+    (Thrift Plan) all employees with at least six months of eligible service
+    with the Company or any of its participating subsidiaries may invest up to
+    16% of their regular salary or wages in common stock of the Company, or in a
+    variety of selected mutual funds. Under the Thrift Plan, the Company matches
+    a portion of an employee's savings in an amount equal to 40%, 50% or 60%
+    (depending on the employee's length of service) of the first 6% of such
+    employee's savings. All matching amounts are invested in common stock of the
+    Company. The amounts reported under All Other Compensation in the Summary
+    Compensation Table include these matching amounts which, for Messrs. Nye,
+    Farrington, Gibbs, Taylor and McNally amounted to $5,760, $5,760, $4,800,
+    $5,760 and $3,840, respectively, during 1997.
+ 
+    The Company has a Salary Deferral Program (Program) under which each
+    employee of the Company and its participating subsidiaries whose annual
+    salary is equal to or greater than an amount established under the Program
+    ($94,760 for the Program Year beginning April 1997) may elect to defer a
+    percentage of annual salary for a period of seven years, a period ending
+    with the retirement of such employee, or for a combination thereof. Such
+    deferrals may not exceed in the aggregate 10% of the employee's annual
+    salary. Salary deferred under the Program is included in amounts reported
+    under Salary in the Summary Compensation Table. The Company makes a matching
+    award, subject to forfeiture under certain circumstances, equal to 100% of
+    the salary deferred under the Program. The trustee for the Program
+    distributes, at the end of the applicable maturity period, cash equal to the
+    greater of the actual earnings of Program assets, or the average yield
+    during the applicable maturity period of U. S. Treasury Notes with a
+    maturity of ten years. The distribution of the amounts due under the Program
+    is in a lump sum if the maturity period is seven years or, if the retirement
+    option is elected, in twenty annual installments. The Company is financing
+    the retirement portion of the Program through the purchase of corporate-
+    owned life insurance on the lives of the participants. The proceeds from
+    such insurance are expected to allow the Company to fully recover the cost
+    of the retirement option. During 1997, matching awards, which are included
+    under All Other Compensation in the Summary Compensation Table, were made
+    for Messrs. Nye, Farrington, Gibbs, Taylor and McNally in the amounts of
+    $76,042, $63,989, $35,458, $33,958 and $27,917, respectively.
+ 
+    Under the Split-Dollar Life Insurance Program of the Texas Utilities Company
+    System (Insurance Program), split-dollar life insurance policies are
+    purchased for elected corporate officers of the Company and its
+    participating subsidiaries with a title of Vice President or above, with a
+    death benefit equal to four times their annual Insurance Program
+    compensation. New participants vest in the policies issued under the
+ 
+                                      11
+<PAGE>
+ 
+    Insurance Program over a six year period. The Company pays the premiums for
+    these policies and has received a collateral assignment of the policies
+    equal in value to the sum of all of its insurance premium payments. Although
+    the Insurance Program is terminable at any time, it is designed so that if
+    it is continued, the Company will fully recover all of the insurance premium
+    payments it has made either upon the death of the participant or, if the
+    assumptions made as to policy yield are realized, upon the later of fifteen
+    years of participation or the participant's attainment of age sixty-five.
+    During 1997, the economic benefit derived by Messrs. Nye, Farrington, Gibbs,
+    Taylor and McNally from the term insurance coverage provided and the
+    interest foregone on the remainder of the insurance premiums paid by the
+    Company amounted to $62,161, $71,072, $25,968, $20,230 and $5,582,
+    respectively.
+ 
+    The amount of $66,291 included in the All Other Compensation column of the
+    Summary Compensation Table for Mr. McNally for 1997 represents additional
+    compensation that the Company agreed to pay Mr. McNally incident to his
+    employment with the Company in lieu of payments he would have received from
+    a prior employer.
+ 
+(4) Mr. Farrington has a management transition agreement with the Company
+    pursuant to which he remained as Chairman of the Board until May 1997, at
+    which time he was named Chairman Emeritus. He will retire as an active
+    employee in May 1998 and serve thereafter as a consultant to the Company
+    for a two year period. In accordance with the agreement, during the period
+    from May 1996 until his retirement, Mr. Farrington's salary will be
+    reduced by 15% each year, and he will be eligible to participate in all
+    employee benefit plans of the Company. As a consultant, he will receive
+    $200,000 annually.
+ 
+                                      12
+<PAGE>
+ 
+                               PENSION PLAN TABLE
+ 
+<TABLE>
+<CAPTION>
+                             YEARS OF SERVICE
+                 --------------------------------------------------------------
+REMUNERATION        20             25             30             35             40
+- ------------        --             --             --             --             --
+<S>              <C>            <C>            <C>            <C>            <C>
+ $   50,000      $ 14,688       $ 18,360       $ 22,032       $ 25,704       $ 29,376
+    100,000        29,688         37,110         44,532         51,954         59,376
+    200,000        59,688         74,610         89,532        104,454        119,376
+    400,000       119,688        149,610        179,532        209,454        239,376
+    800,000       239,688        299,610        359,532        419,454        479,376
+  1,000,000       299,688        374,610        449,532        524,454        599,376
+  1,400,000       419,688        524,610        629,532        734,454        839,376
+</TABLE>
+ 
+  The Company and its subsidiaries maintain retirement plans (Plans) which are
+qualified under applicable provisions of the Internal Revenue Code of 1986, as
+amended (Code). Annual retirement benefits are computed as follows: for each
+year of accredited service up to a total of 40 years of service, 1.3% of the
+first $7,800, plus 1.5% of the excess over $7,800 of the participant's average
+annual earnings during his or her three years of highest earnings. Amounts
+reported under Salary for the named officers in the Summary Compensation Table
+approximate earnings as defined by the Plans and the Supplemental Retirement
+Plan (Supplemental Plan). Benefits paid under the Plans are not subject to any
+reduction for Social Security payments but are limited by provisions of the
+Code. The Supplemental Plan provides for the payment of retirement benefits
+which would otherwise be limited by the Code or by the definition of earnings
+in the Plans. Under the Supplemental Plan, retirement benefits are calculated
+in accordance with the same formula used under the Plans, except that earnings
+also include AIP awards (50% of the AIP award is reported under Bonus for the
+named officers in the Summary Compensation Table). As of February 28, 1998,
+years of accredited service under the plans for Messrs. Nye, Farrington, Gibbs,
+Taylor and McNally were 35, 38, 35, 30 and 1, respectively. The table
+illustrates the total annual benefit payable at retirement under the Plans and
+Supplemental Plan prior to any reduction for a contingent beneficiary option
+which may be selected by the participant.
+ 
+  The following information contained under the headings Organization and
+Compensation Committee Report on Executive Compensation and Performance Graph
+is not to be deemed to be (i) incorporated by reference into any filing under
+the Securities Act of 1933 or the Securities Exchange Act of 1934 (Securities
+Acts) or (ii) "soliciting material" or "filed" with the Securities and Exchange
+Commission within the meaning of Item 402(a)(9) of SEC Regulation S-K of the
+Securities Acts.
+ 
+                                       13
+<PAGE>
+ 
+                ORGANIZATION AND COMPENSATION COMMITTEE REPORT
+                           ON EXECUTIVE COMPENSATION
+ 
+  The Organization and Compensation Committee of the Board of Directors
+(Committee) is responsible for reviewing and establishing the compensation of
+the executive officers of the Company. The Committee consists of all of the
+nonemployee directors of the Company and is chaired by James A. Middleton. The
+Committee has directed the preparation of this report and has approved its
+contents and submission to the shareholders.
+ 
+  As a matter of policy, the Committee believes that levels of executive
+compensation should be based upon an evaluation of the performance of the
+Company and its officers generally, as well as in comparison to persons with
+comparable responsibilities in similar business enterprises. Compensation
+plans should align executive compensation with returns to shareholders with
+due consideration accorded to balancing both long-term and short-term
+objectives. The overall compensation program should provide for an appropriate
+and competitive balance between base salaries and performance-based annual and
+long-term incentives. The Committee has determined that, as a matter of policy
+to be implemented over time, the base salaries of the officers will be
+established at the median, or 50th percentile, of the top ten electric
+utilities in the United States and that opportunities for total direct
+compensation (defined as the sum of base salaries, annual incentives and long-
+term incentives) to reach the 75th percentile, or above, of such utilities
+will be provided through performance-based compensation plans. Such
+compensation principles and practices have allowed, and should continue to
+allow, the Company to attract, retain and motivate its key executives.
+ 
+  In furtherance of these policies, a nationally recognized compensation
+consultant has been retained since 1994 to assist the Committee in its
+periodic reviews of compensation and benefits provided to officers. The
+consultant's evaluations include comparisons to the largest utilities as well
+as to general industry with respect both to the level and composition of
+officers' compensation. The consultant's recommendations including the Annual
+Incentive Plan, the Long-Term Incentive Compensation Plan and certain benefit
+changes have generally been implemented. The Annual Incentive Plan, which was
+approved by the shareholders in 1995, is generally referred to as the AIP and
+is described in this report as well as in footnote 1 on pages 8 and 9 of this
+proxy statement. The Long-Term Incentive Compensation Plan, referred to as the
+Long-Term Plan or LTICP, was approved by the shareholders in 1997 and is
+described in this report as well as in footnote 2 on pages 9 and 10 of this
+proxy statement.
+ 
+                                      14
+<PAGE>
+ 
+  In recent years, the compensation of the officers of the Company has
+consisted principally of base salaries, the opportunity to participate in the
+Deferred and Incentive Compensation Plan (referred to as the DICP and
+described in footnote 2 on pages 9 and 10 of this proxy statement) and the
+opportunity to earn an incentive award under the AIP. Benefits provided under
+the DICP and the AIP have represented a substantial portion of officers'
+compensation, and the value of future payments under the DICP, as well as the
+value of the deferred portion of any award under the AIP, is directly related
+to the future performance of the Company's common stock. It is anticipated
+that performance-based incentive awards under the AIP and the Long-Term Plan
+will, in future years, constitute an increasing percentage of the officers'
+total compensation.
+ 
+  The AIP is administered by the Committee and provides an objective framework
+within which annual Company and individual performance can be evaluated by the
+Committee. Depending on the results of such performance evaluations, and the
+attainment of the per share net income goals established in advance, the
+Committee may provide annual incentive compensation awards to eligible
+officers. The evaluation of each individual participant's performance is based
+upon the attainment of individual and business unit objectives. The Company's
+performance is evaluated, compared to the ten largest electric utilities
+and/or the electric utility industry, based upon its total return to
+shareholders and return on invested capital, as well as other measures
+relating to competitiveness, service quality and employee safety. The
+combination of individual and Company performance results, together with the
+Committee's evaluation of the competitive level of compensation which is
+appropriate for such results, determines the amount, if any, actually awarded.
+ 
+  The Long-Term Plan, which is also administered by the Committee, is a
+comprehensive stock-based incentive compensation plan under which all awards
+are made in, or based on the value of, the Company's common stock. The Long-
+Term Plan provides that, in the discretion of the Committee, awards may be in
+the form of stock options, stock appreciation rights, performance and/or
+restricted stock or stock units or in any other stock-based form. The purpose
+of the Long-Term Plan is to provide performance-related incentives linked to
+long-term performance goals. Such performance goals may be based on individual
+performance and/or may include criteria such as absolute or relative levels of
+total shareholder return, revenues, sales, net income or net worth of the
+Company, any of its subsidiaries, business units or other areas, all as the
+Committee may determine. Awards under the Long-Term Plan are expected to
+constitute the principal long-term component of officers' compensation. At its
+meeting in May 1997, the Committee provided awards of performance-based
+restricted stock to certain officers, including the Chief Executive. The
+future value of those awards will be determined by the Company's total return
+to shareholders over a three year period compared to the total return for that
+period of the
+ 
+                                      15
+<PAGE>
+ 
+companies comprising the Standard & Poor's Electric Utility Index. Depending
+upon the Company's relative return for such period, the officers may earn from
+0% to 200% of the original award and their compensation is, thereby, directly
+related to shareholder value. These awards, and any awards that may be made in
+the future, are based upon the Committee's evaluation of the appropriate level
+of long-term compensation consistent with its policy relating to total direct
+compensation.
+ 
+  In establishing levels of executive compensation at its May 1997 meeting,
+the Committee reviewed various performance and compensation data, including
+the performance measures under the AIP and the report of its compensation
+consultant. Information was also gathered from industry sources and other
+published and private materials which provided a basis for comparing the
+largest electric and gas utilities and other survey groups representing a
+large variety of business organizations. Included in the data considered was
+that the Company's total return to shareholders in 1996 was 4.4%, which was
+the third highest total return amongst the ten largest utilities. The
+comparative returns provided by the largest electric and gas utilities are
+represented by the returns of the Standard & Poor's Electric Utility Index and
+are reflected in the graph on page 18. The graph also reflects the returns
+provided by the Moody's 24 Utilities, and that disclosure will be discontinued
+after this year in light of the greater comparability of the Company to the
+companies comprising such S&P index. In 1996, TU Electric, the Company's
+principal subsidiary, was the largest electric utility in the United States as
+measured by megawatt hour sales and, compared to other electric utilities in
+the United States, was fifth in electric revenues, sixth in total assets,
+fourth in net generating capability, eighth in number of customers and twelfth
+in number of employees. Compensation amounts were established by the Committee
+based upon its consideration of the above comparative data and its subjective
+evaluation of Company and individual performance at levels consistent with the
+Committee's policy relating to total direct compensation.
+ 
+  In May 1997 the Committee increased Mr. Nye's base salary as Chief Executive
+to an annual rate of $775,000 representing a $35,000 or 4.7% increase over the
+amount established for Mr. Nye in May 1996. Based upon the Committee's
+evaluation of individual and Company performance, as called for by the AIP,
+the Committee also provided Mr. Nye with an AIP award of $650,000 compared to
+the prior year's award of $370,000. The Committee also awarded 22,000 shares
+of performance-based restricted stock to Mr. Nye. Under the terms of the
+award, Mr. Nye can earn from 0% to 200% of the award depending on the
+Company's total return to shareholders over a three-year period (April 1, 1997
+through March 31, 2000) compared to the total return provided by the companies
+comprising the Standard & Poor's Electric Utility Index. This level of
+compensation was established based upon the Committee's subjective evaluation
+of the information described in this report.
+ 
+                                      16
+<PAGE>
+ 
+  In discharging its responsibilities with respect to establishing executive
+compensation, the Committee normally considers such matters at its May meeting
+held in conjunction with the Annual Meeting of Shareholders. Although Company
+management may be present during Committee discussions of officers'
+compensation, Committee decisions with respect to the compensation of the
+Chairman of the Board and Chief Executive and the President are reached in
+private session without the presence of any member of Company management.
+ 
+  Section 162(m) of the Code limits the deductibility of compensation which a
+publicly traded corporation provides to its most highly compensated officers.
+As a general policy, the Company does not intend to provide compensation which
+is not deductible for federal income tax purposes. Awards under the AIP in
+1996 and subsequent years as well as awards under the Long-Term Plan are
+expected to be fully deductible, and the DICP and the Salary Deferral Program
+have been amended to require the deferral of distributions of amounts earned
+in 1995 and subsequent years until the time when such amounts would be
+deductible. Awards provided under the AIP in 1995 and distributions under the
+DICP and the Salary Deferral Program which were earned in plan years prior to
+1995, may not be fully deductible but such amounts are not expected to be
+material.
+ 
+  Shareholder comments to the Committee are welcomed and should be addressed
+to the Secretary of the Company at the Company's offices.
+ 
+                    ORGANIZATION AND COMPENSATION COMMITTEE
+ 
+     James A. Middleton, Chair                    Margaret N. Maxey
+     Bayard H. Friedman                           J. E. Oesterreicher
+     William M. Griffin                           Charles R. Perry
+     Kerney Laday                                 Herbert H. Richardson
+ 
+                                      17
+<PAGE>
+ 
+                               PERFORMANCE GRAPH
+ 
+  The following graph compares the performance of the Company's common stock to
+the S&P 500 Index, the Moody's 24 Utilities and the S&P Electric Utility Index
+for the last five years. The graph assumes the investment of $100 at December
+31, 1992 and that all dividends were reinvested. The amount of the investment
+at the end of each year is shown in the graph and in the table which follows.
+ 
+                            CUMULATIVE TOTAL RETURNS
+                       FOR THE FIVE YEARS ENDED 12/31/97
+
+                        [PERFORMANCE GRAPH APPEARS HERE]
+ 
+<TABLE>
+                                               ---------------------------------
+<CAPTION>
+                                                   1992 1993 1994 1995 1996 1997
+- --------------------------------------------------------------------------------
+  <S>                                              <C>  <C>  <C>  <C>  <C>  <C>
+  Texas Utilities................................. 100  109   88  123  128  138
+- --------------------------------------------------------------------------------
+  S&P 500 Index................................... 100  110  111  153  188  251
+- --------------------------------------------------------------------------------
+  Moody's 24 Utilities............................ 100  110   94  123  125  152
+- --------------------------------------------------------------------------------
+  S&P Electric Utility Index...................... 100  113   98  128  128  162
+- --------------------------------------------------------------------------------
+</TABLE>
+ 
+                                       18
+<PAGE>
+ 
+                             SELECTION OF AUDITORS
+ 
+  The Audit Committee has nominated to the Board of Directors for its
+consideration the firm of Deloitte & Touche LLP to act as independent auditors
+for the Company for the year 1998 and, subject to the approval of shareholders
+at the annual meeting, the Board has selected that firm to audit the books of
+account and records of the Company and to make a report thereon to the
+shareholders. The persons named in the proxy will, unless otherwise instructed
+thereon, vote your shares in favor of the following resolution which will be
+submitted for consideration:
+ 
+    RESOLVED that the selection of the firm of Deloitte & Touche LLP,
+  independent auditors, to audit the books of account and records of the
+  Company for the year 1998, to make a report thereon "To the
+  Shareholders of Texas Utilities Company," and to perform other
+  services, be, and it hereby is, approved.
+ 
+  The firm of Deloitte & Touche LLP, independent auditors, has been the
+outside auditors for the Company since its organization in 1996 and for Texas
+Energy Industries, Inc. (formerly Texas Utilities Company) and ENSERCH
+Corporation since their organization in 1945 and 1942, respectively, including
+the last fiscal year. Representatives of Deloitte & Touche LLP are expected to
+be present at the annual meeting and will have the opportunity to make a
+statement, if they desire to do so, and to respond to appropriate questions.
+ 
+    THE BOARD OF DIRECTORS RECOMMENDS A VOTE FOR THE APPROVAL OF AUDITORS.
+ 
+                                      19
+<PAGE>
+ 
+                                OTHER BUSINESS
+ 
+  Other than as stated herein, the Board of Directors does not intend to bring
+any business before the meeting and it has not been informed of any matters
+that may be presented to the meeting by others. However, if any other matters
+properly come before the meeting, it is the intent of the Board of Directors
+that the persons named in the proxy will vote pursuant to the proxy in
+accordance with their judgment in such matters.
+ 
+ Dated: March 19, 1998
+ 
+ 
+            WHETHER OR NOT YOU WILL BE ABLE TO ATTEND THE MEETING,
+            PLEASE SIGN AND RETURN THE ACCOMPANYING PROXY PROMPTLY.
+ 
+ 
+                                      20
+<PAGE>
+ 
+ 
+                  [TEXAS UTILITIES COMPANY LOGO APPEARS HERE]
+- --------------------------------------------------------------------------------
+ 
+NOTICE OF
+ANNUAL MEETING
+OF SHAREHOLDERS
+AND
+PROXY STATEMENT
+- --------------------------------------------------------------------------------
+ 
+TIME:
+FRIDAY, MAY 8, 1998, AT 9:30 A.M.
+ 
+PLACE:
+ALEXANDRIA AUDITORIUM
+INFOMART
+1950 STEMMONS FREEWAY
+DALLAS, TEXAS 75207
+ 
+ Whether or not you will be able
+ to attend the meeting, please
+ sign and return the enclosed
+ proxy promptly so that you may
+  be represented at the meeting.
+ 
+ 
+<PAGE>
+ 
+ P                          TEXAS UTILITIES COMPANY
+ R                               ENERGY PLAZA
+ O                             1601 Bryan Street
+ X                           Dallas, TX 75201-3411
+ Y        THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+
+    The undersigned hereby appoints J.S. Farrington and Erle Nye, and each of
+them, Proxies with power to appoint a substitute, and hereby authorizes them to
+represent and to vote all shares of common stock of Texas Utilities Company held
+of record by the undersigned on March 9, 1998 at the annual meeting of
+shareholders of the Company to be held in the Alexandria Auditorium of the
+Infomart, 1950 Stemmons Freeway, Dallas, Texas, on Friday, May 8, 1998, and at
+any adjournments thereof, and to vote, as directed on the reverse side of this
+card, on all specified matters coming before said meeting, and in their
+discretion, upon such other matters not specified as may come before said
+meeting.
+
+
+           (Continued, and to be signed and dated, on reverse side)
+
+
+
+
+
+THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN.
+IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR ITEMS 1 AND 2.
+                                                               Please mark
+                                                               your vote as  X
+                                                               indicated in
+                                                               this example
+- --------------------------------------------------------------------------------
+DIRECTORS RECOMMEND A VOTE FOR
+ALL NOMINEES AND FOR ITEM 2.    FOR      WITHHELD     
+
+1. Election of Directors:
+
+NOMINEES:
+
+J.S. FARRINGTON                JAMES A. MIDDLETON
+BAYARD H. FRIEDMAN             ERLE NYE
+WILLIAM M. GRIFFIN             J.E. OESTERREICHER
+KERNEY LADAY                   CHARLES R. PERRY
+MARGARET N. MAXEY              HERBERT H. RICHARDSON
+
+For, except vote withhold from the following nominee(s):
+
+- ---------------------------------------------------------
+                                                    FOR      AGAINST     ABSTAIN
+2. Approval of Auditors - Deloitte & Touche LLP
+
+- --------------------------------------------------------------------------------
+                               --------
+                                                                  
+
+
+
+
+
+                                     NOTE: Please sign names exactly as printed 
+                                     hereon. Joint owners should each sign.
+                                     In signing as attorney, administrator, 
+                                     executor, guardian, officer, partner or 
+                                     trustee, please give full title as such.
+                                     Receipt is acknowledged of the Annual
+                                     Report of the Company for 1997, notice of
+                                     meeting and proxy statement.
+
+
+Signature(s)                              Date
+            ----------------------------      ----------------------------------
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

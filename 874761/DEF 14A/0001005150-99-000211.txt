@@ -1,0 +1,1186 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SLkZb2vBD15BoqOygUbhfBUvh+/dRaER3LGuWHI8Uy3cY7/M6zdJ3F+7Snf8Dzpn
+ hFbIBnXAJTBbbMcvv6246w==
+
+<SEC-DOCUMENT>0001005150-99-000211.txt : 19990331
+<SEC-HEADER>0001005150-99-000211.hdr.sgml : 19990331
+ACCESSION NUMBER:		0001005150-99-000211
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990420
+FILED AS OF DATE:		19990330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AES CORPORATION
+		CENTRAL INDEX KEY:			0000874761
+		STANDARD INDUSTRIAL CLASSIFICATION:	COGENERATION SERVICES & SMALL POWER PRODUCERS [4991]
+		IRS NUMBER:				541163725
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	001-12291
+		FILM NUMBER:		99579238
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 N 19TH ST
+		STREET 2:		STE 2000
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+		BUSINESS PHONE:		7035221315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEFINITIVE 14A
+<TEXT>
+
+
+                                  SCHEDULE 14A
+                                (RULE 14A -- 101)
+
+                     INFORMATION REQUIRED IN PROXY STATEMENT
+                            SCHEDULE 14A INFORMATION
+
+           PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES
+                   EXCHANGE ACT OF 1934 (AMENDMENT NO.         )
+
+Filed by Registrant [X]
+Filed by a Party other than the Registrant [ ]
+
+Check the appropriate box:
+[ ] Preliminary Proxy Statement
+[ ] Confidential, for Use of the Commission
+    Only (as permitted by Rule 14a-6(e)(2))
+[X] Definitive Proxy Statement
+[ ] Definitive Additional Materials
+[ ] Soliciting Material Pursuant to Section 240.14a-11(c) or Section
+    240.14a-12
+
+                                ----------------
+                               THE AES CORPORATION
+                                ----------------
+                (Name of Registrant as Specified in its Charter)
+                                ----------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+
+
+
+Payment of Filing Fee (Check the appropriate box):
+
+[X] No fee required
+[ ] Fee computed on table below per Exchange Act Rules 14-a6(i)(1) and 0-11.
+
+
+
+      1) Title of each class of securities to which transaction applies:
+
+         Common Stock, par value $0.01 per share
+         -----------------------------------------------------------------------
+
+      2) Aggregate number of securities to which transaction applies:
+         -----------------------------------------------------------------------
+
+
+      3) Per unit  price  or other  underlying  value  of  transaction  computed
+         pursuant to  Exchange  Act Rule 0-11 (Set forth the amount on which the
+         filing fee is calculated and state how it was determined):
+
+         Not Applicable
+        ------------------------------------------------------------------------
+
+      4) Proposed maximum aggregate value of transaction:
+
+         Not Applicable
+         -----------------------------------------------------------------------
+
+      5) Total Fee paid:
+
+         None
+         -----------------------------------------------------------------------
+
+[  ]  Fee paid previously with preliminary materials.
+
+[  ]  Check box if any part of the fee is offset as  provided  by  Exchange  Act
+      Rule  0-11(a)(2)  and identify the filing for which the offsetting fee was
+      paid  previously.  Identify the previous filing by registration  statement
+      number, or the Form or Schedule and the date of its filing.
+
+      (1) Amount Previously Paid:
+
+      --------------------------------------------------------------------------
+
+      (2) Form, Schedule or Registration Statement No.:
+
+      --------------------------------------------------------------------------
+
+      (3) Filing Party:
+
+      --------------------------------------------------------------------------
+
+      (4) Date Filed:
+
+     --------------------------------------------------------------------------
+
+
+<PAGE>
+
+- --------------------------------------------------------------------------------
+================================================================================
+- --------------------------------------------------------------------------------
+
+                                [GRAPHIC OMITTED]
+
+                               The AES Corporation
+                             1001 North 19th Street
+                            Arlington, Virginia 22209
+
+
+                    NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                      TO BE HELD ON TUESDAY, APRIL 20, 1999
+
+
+
+March 30, 1999
+
+     The Annual Meeting of Stockholders  of The AES Corporation  (the "Company")
+will be held on Tuesday, April 20, 1999, at 9:30 a.m. in the Company's corporate
+offices at 1001 North 19th  Street,  Arlington,  Virginia.  Doors to the meeting
+will open at 8:30 a.m.
+
+     The meeting will be conducted:
+
+     o  To elect a board of nine directors;
+
+     o  To consider and vote on a proposal to ratify the appointment of Deloitte
+        & Touche LLP as  independent  auditors  of the Company for the year 1999
+        (approved by the Board of Directors and set forth in the following Proxy
+        Statement);
+
+     o  To transact such other business as may properly come before the meeting.
+
+     Stockholders  of record at the close of  business  on March 3, 1999 will be
+entitled to notice of and to vote at this meeting.
+
+
+                                        [sig]
+
+                                        William R. Luraschi
+                                        Vice President and Secretary
+
+
+     EACH  STOCKHOLDER  IS REQUESTED TO EXECUTE AND PROMPTLY RETURN THE ENCLOSED
+PROXY.  A PREPAID ENVELOPE IS ENCLOSED FOR RETURNING PROXIES. (SEE DIRECTIONS ON
+PROXY CARD.)
+
+- --------------------------------------------------------------------------------
+================================================================================
+- --------------------------------------------------------------------------------
+<PAGE>
+
+PROXY STATEMENT
+
+March 30, 1999
+
+The  accompanying  proxy  is  solicited  by the  Board of  Directors  of The AES
+Corporation  (the  "Company"  or  "AES")  for  use  at  the  Annual  Meeting  of
+Stockholders  of the Company to be held on Tuesday,  April 20, 1999 at 9:30 a.m.
+at the  Company's  corporate  offices  at 1001  North  19th  Street,  Arlington,
+Virginia 22209, or at any adjournment of such meeting.  This Proxy Statement and
+accompanying  proxy are first  being sent or given to  stockholders  on or about
+March 30, 1999.
+
+If the proxy is properly executed and returned by mail, the shares it represents
+will be voted at the meeting in accordance with the instructions  noted thereon.
+If no instructions  are specified,  the shares will be voted for the election of
+the directors and in accordance with the Board of Directors'  recommendations as
+set forth herein.  Any stockholder  executing a proxy has the power to revoke it
+at any time before it is voted by filing  with the  Company a written  notice of
+revocation,  by  delivering a duly  executed  proxy  bearing a later date, or by
+attending  the Annual  Meeting  of  Stockholders  and voting in person.  Proxies
+marked as abstentions, or to withhold a vote from a nominee as a director in the
+case of the  election  of  directors,  will have the effect of a negative  vote.
+Broker  non-votes (where a nominee holding shares for a beneficial owner has not
+received  voting  instructions  from the  beneficial  owner  with  respect  to a
+particular  matter and such  nominee  does not possess or choose to exercise his
+discretionary  authority with respect  thereto) will be considered as present at
+the meeting but not entitled to vote with respect to the  particular  matter and
+will therefore have no effect.
+
+The only  securities  of the  Company  entitled to be voted are shares of Common
+Stock,  and only  holders of record of Common  Stock at the close of business on
+March 3, 1999 are entitled to notice of and to vote at the  meeting.  Holders of
+Common Stock are entitled to one vote per share.  There were 180,587,044  shares
+of Common  Stock  outstanding  at the close of  business  on March 3, 1999.  The
+Company's  Annual  Report for the fiscal year ended  December  31, 1998 is being
+delivered concurrently with this Proxy Statement.
+
+PROPOSAL 1
+ELECTION OF DIRECTORS
+
+The Board of  Directors  is  comprised  of nine  members,  seven of whom are not
+officers  of or  otherwise  employed  by the  Company.  In  1998,  the  Board of
+Directors met 14 times, including 10 telephonic meetings;  Mrs. O'Leary attended
+69% of these meetings. Directors are to be elected to hold office until the next
+Annual Meeting of Stockholders and until their respective  successors shall have
+been  elected  and  qualified.  Directors  shall be elected by a majority of the
+votes of the shares of Common Stock present in person or represented by proxy at
+the Annual Meeting of Stockholders, at which a quorum is present.
+
+Roger W. Sant  co-founded AES with Dennis Bakke in 1981. He has been Chairman of
+the Board and a director  of AES since its  inception  and he held the office of
+Chief Executive  Officer through  December 31, 1993. He currently is Chairman of
+the Boards of Directors of The Summit  Foundation  and the World  Wildlife  Fund
+U.S.,  a Trustee of the World Wide Fund for Nature,  and serves on the Boards of
+Directors of the World Resources Institute,  Marriott  International,  Inc., and
+the National  Symphony  Orchestra.  He was  Assistant  Administrator  for Energy
+Conservation  and the Environment of the Federal Energy  Administration  ("FEA")
+from 1974 to 1976 and the Director of the Energy Productivity  Center, an energy
+research  organization  affiliated with The Mellon Institute at  Carnegie-Mellon
+University, from 1977 to 1981.
+
+Dennis W. Bakke  co-founded  AES with Roger Sant in 1981 and has been a director
+of AES since 1986. He has been President of AES since 1987
+
+
+                                        1
+<PAGE>
+and Chief Executive  Officer since January 1, 1994. From 1987 to 1993, he served
+as Chief  Operating  Officer of AES;  from 1982 to 1986,  he served as Executive
+Vice  President  of AES;  and from 1985 to 1986,  he also served as Treasurer of
+AES. He served with Mr. Sant as Deputy  Assistant  Administrator of the FEA from
+1974 to 1976 and as Deputy Director of the Energy  Productivity Center from 1978
+to 1981.  He is a trustee of the  Rivendell  School and a member of the Board of
+Directors of MacroSonix Corporation.
+
+Alice F. Emerson has been a director of AES since 1993.  She is a Senior Advisor
+at The  Andrew W.  Mellon  Foundation,  was  President  of  Wheaton  College  in
+Massachusetts from 1975 to 1991, and prior to that served as Dean of Students at
+the  University of  Pennsylvania.  She is a member of the Boards of Directors of
+the World Resources Institute,  BankBoston  Corporation,  Champion International
+Corporation,  Eastman Kodak Company,  Salzburg Seminar, and the MGH Institute of
+Health Professions.
+
+Robert F. Hemphill, Jr. has been a director of AES since June 1996. He served as
+Executive  Vice  President  of AES from 1982 to June 1996.  He  currently is the
+Managing  Director of Toucan  Ventures  Capital  Corporation  (an  international
+venture capital firm). He also serves on the Boards of Directors of the National
+Museum of American History, the Pacific International Center for High Technology
+Research,  and is a member of the Board of  Advisors  of the  George  Washington
+University.
+
+Frank  Jungers was an advisor to the Board of AES from 1982 to 1983 and has been
+a director of AES since 1983. He has been consultant to various  companies since
+prior to 1994.  Mr.  Jungers  is the  retired  Chairman  of the  Board and Chief
+Executive  Officer of the Arabian  American Oil Company.  He currently serves on
+the Boards of Directors of Georgia-Pacific Corporation (retiring after 20 years,
+effective May 1, 1999), Thermo Electron Corporation,  Thermo Ecotek Corporation,
+ThermoQuest Corporation,  Esco Corporation,  Donaldson, Lufkin & Jenrette, Inc.,
+Statia Terminals, and the Onix Corporation.  He is also Chairman of the Advisory
+Board  of  Common  Sense  Partners,  L.P.  He is  Chairman  of  the  College  of
+Engineering  Development  Committee  and member of the Visiting  Committee,  The
+University of Washington.  He is also Advisory Trustee of the Board of Trustees,
+The  American  University  in Cairo and serves as a Trustee  to the High  Desert
+Museum, and the Oregon Health Sciences University Foundation.
+
+John H.  McArthur  has been a  director  of AES since  January  1997.  He is the
+retired Dean of the Harvard  Business  School,  and has been a private  business
+consultant  and active  investor in various  companies  since prior to 1994.  He
+serves as Senior Advisor to the President of the World Bank Group.  He is also a
+member  of  the  Boards  of  Directors  of  BCE  Inc.,  Cabot  Corporation,  the
+Columbia/HCA   Healthcare   Corporation,   Glaxo   Wellcome  plc,  Rohm  &  Haas
+Corporation,  Springs Industries, Inc. and the Vincam Group, Inc. He also serves
+in  various  capacities  with  non-profit  health,   government,  and  education
+organizations in America, Canada, Europe, and Asia.
+
+Hazel R.  O'Leary  has been a director of AES since  April  1997.  Mrs.  O'Leary
+previously  served on AES's Board of Directors from September 1988 to June 1989.
+Mrs. O'Leary was the seventh Secretary of the United States Department of Energy
+from 1993 to 1997. She is consultant and attorney to a diverse group of domestic
+and international energy and sustainable  development firms. Prior to serving as
+U.S.  Secretary of Energy, she served as president of the natural gas subsidiary
+of Northern States Power Company, and before that as Executive Vice President of
+Northern  States  Power  Company.  She also  serves on the  Board of ICF  Kaiser
+International,  and on the non-profit  Boards of Morehouse  College,  the Andrew
+Young Center of  International  Development,  the World  Wildlife  Fund, and the
+Keystone Center, where she chairs its Energy Board.
+
+Thomas  I.  Unterberg  has  been  a  director of AES since 1984 and from 1982 to
+1983. He has been a Managing Director of C.E. Unterberg,
+
+
+                                        2
+<PAGE>
+Towbin (an investment  banking firm) since 1989, having been a Managing Director
+of Shearson Lehman Brothers Inc., from 1987 through 1988. He currently serves on
+the Boards of Directors of Electronics for Imaging,  Inc.,  Systems and Computer
+Technology Corporation, ECCS, Inc., Centrax Corporation, Inc. and Club One, LLC.
+
+During 1998,  Unterberg  Harris,  an affiliate of C.E.  Unterberg,  Towbin,  the
+investment banking firm in which Mr. Unterberg is a Managing Director,  acted as
+a co-managing  underwriter for two financial  offerings of the Company including
+(i) the  August 4, 1998  offering  of $150  million of 4.5%  Convertible  Junior
+Subordinate  Debentures  due 2005 and (ii) the August 4, 1998  offering  of 4.25
+million shares of Common Stock, par value $0.01 per share.
+
+Robert H. Waterman, Jr. was an advisor to the Board of AES from 1983 to 1985 and
+has been a director of AES since 1985.  He is the founder and has been the Chief
+Executive Officer of The Waterman Group, Inc. (a business consulting firm) since
+1985.  His  business  includes  research  and  writing,  consulting  and venture
+management. He is a co-author of In Search of Excellence,  and the author of The
+Renewal  Factor,  Adhocracy  -- The Power to Change and What America Does Right,
+each of which is a book on business management.  He currently is Chairman of the
+Board of  MindSteps,  Inc.,  and  serves  on the  boards of  several  non-profit
+organizations  including the World  Wildlife Fund and the Restless Legs Syndrome
+Foundation.
+
+
+                                        3
+<PAGE>
+- --------------------------------------------------------------------------------
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS,
+DIRECTORS, AND EXECUTIVE OFFICERS
+
+The following table sets forth, as of February 2, 1999, the beneficial ownership
+of the Company's Common Stock by (a) each director and named executive  officer,
+(b) all directors and executive  officers as a group and (c) all persons who own
+more than five percent (5%) of the  Company's  Common  Stock.  Unless  otherwise
+indicated,  each of the  persons  and group  listed  below has sole  voting  and
+dispositive power with respect to the shares shown.
+
+
+<TABLE>
+<CAPTION>
+                      NAME                           AGE
+- ------------------------------------------------ ----------
+<S>                                              <C>
+SHARES BENEFICIALLY OWNED BY DIRECTORS AND EXECUTIVE
+OFFICERS:
+ Roger W. Sant .................................    67
+ Dennis W. Bakke # .............................    53
+ Alice F. Emerson +@ ...........................    67
+ Robert F. Hemphill, Jr. %+ ....................    55
+ Frank Jungers +@ ..............................    72
+ John H. McArthur %+ ...........................    65
+ Hazel R. O'Leary +% ...........................    62
+ Thomas I. Unterberg %+ ........................    68
+ Robert H. Waterman, Jr. +@# ...................    62
+ Barry J. Sharp ................................    39
+ Thomas A. Tribone .............................    46
+ John R. Ruggirello ............................    48
+ J. Stuart Ryan ................................    40
+ All directors and executive officers as a group
+  (25 persons) .................................
+SHARES BENEFICIALLY OWNED BY OTHERS:
+ BankAmerica Corporation ....................... Address:
+ Capital Guardian Trust Company ................ Address:
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+                                                                                                   SHARES OF
+                                                                                                  COMMON STOCK
+                                                                POSITION HELD                     BENEFICIALLY         % OF
+                      NAME                                     WITH THE COMPANY                   OWNED(1)(2)       CLASS(1)(2)
+- ------------------------------------------------ ------------------------------------------- --------------------- ------------
+<S>                                              <C>                                         <C>                   <C>
+SHARES BENEFICIALLY OWNED BY DIRECTORS AND EXECUTIVE OFFICERS:
+ Roger W. Sant ................................. Chairman of the Board and Director                20,991,431(3)        11.85
+ Dennis W. Bakke # ............................. President, Chief Executive Officer                18,230,041(4)        10.37
+                                                 and Director
+ Alice F. Emerson +@ ........................... Director                                              46,912              *
+ Robert F. Hemphill, Jr. %+ .................... Director                                           1,668,004(5)           *
+ Frank Jungers +@ .............................. Director                                           1,117,168(6)           *
+ John H. McArthur %+ ........................... Director                                              14,379              *
+ Hazel R. O'Leary +% ........................... Director                                               8,304              *
+ Thomas I. Unterberg %+ ........................ Director                                           1,266,587(7)           *
+ Robert H. Waterman, Jr. +@# ................... Director                                             650,446(8)           *
+ Barry J. Sharp ................................ Senior Vice President and Chief Financial            382,834(9)           *
+                                                 Officer
+ Thomas A. Tribone ............................. Executive Vice President                             501,722              *
+ John R. Ruggirello ............................ Senior Vice President                                218,209              *
+ J. Stuart Ryan ................................ Senior Vice President                                411,754(10)          *
+ All directors and executive officers as a group
+  (25 persons) .................................                                                   52,646,063(11)       29.88
+SHARES BENEFICIALLY OWNED BY OTHERS:
+ BankAmerica Corporation ....................... 100 South Tryon Street                            11,498,733(12)        6.57
+                                                 NationsBank Plaza
+                                                 Charlotte, NC 28255
+ Capital Guardian Trust Company ................ 11100 Santa Monica Boulevard                       9,589,850(13)        5.48
+                                                 Los Angeles, CA 90025
+</TABLE>
+
+- ----------
+
+%     Member of the Financial Audit Committee.
++     Member of the Environmental, Safety and Social Responsibility Committee.
+@     Member of the Compensation Committee.
+#     Member of the Nominating Committee.
+*     Shares  held  represent  less than 1% of the total  number of  outstanding
+      shares of Common Stock of the Company.
+
+(1)   Shares  beneficially  owned and deemed to be  outstanding  include  Common
+      Stock of the Company  issued or issuable,  on or before April 2, 1999, (a)
+      upon exercise of outstanding options,  (b) upon exercise of warrants,  (c)
+      under the Deferred Compensation Plan for Executive Officers, (d) under the
+      Deferred  Compensation  Plan for Directors,  (e) under The AES Corporation
+      Profit Sharing and Stock  Ownership Plan and the Employee Stock  Ownership
+      Plan and (f) under the Supplemental Retirement Plan.
+
+(2)   Includes (a) the following  shares issuable upon exercise of options:  Mr.
+      Sant - 1,020,387 shares;  Mr. Bakke - 760,549 shares;  Mr. Sharp - 249,121
+      shares; Mr. Tribone - 295,890 shares; Mr. Ruggirello - 151,388 shares; Mr.
+      Ryan - 343,563 shares;  Dr. Emerson - 30,864 shares; Mr. Hemphill - 12,638
+      shares;  Mr. Jungers - 24,998 shares;  Mr. McArthur - 12,638 shares;  Mrs.
+      O'Leary - 6,458 shares;  Mr.  Unterberg - 24,998  shares;  Mr.  Waterman -
+      24,998 shares; all directors and executive officers as a group - 4,409,453
+      shares;  (b) the following units issuable under the Deferred  Compensation
+      Plan for  Executive  Officers:  Mr. Sant - 29,643  shares;  all  executive
+      officers as a group - 29,643  shares;  (c) the  following  units  issuable
+      under the Deferred  Compensation Plan for Directors:  Dr. Emerson - 7,186;
+      Mr. Jungers - 80,720;  Mr.  McArthur - 1,741;  Mrs.  O'Leary - 1,496;  Mr.
+      Unterberg - 117,525;  Mr.  Waterman - 116,954;  all  directors  as a group
+      325,622;  (d) the  following  shares  held in The AES  Corporation  Profit
+      Sharing and Stock  Ownership Plan and the Employee Stock  Ownership  Plan:
+      Mr. Sant - 292,924 shares;
+
+
+                                       4
+<PAGE>
+      Mr. Bakke - 280,646 shares;  Mr.  Hemphill - 198,712  shares;  Mr. Sharp -
+      45,848  shares;  Mr.  Tribone - 56,860  shares;  Mr.  Ruggirello  - 31,852
+      shares;  Mr. Ryan - 42,253  shares;  all  executive  officers as a group -
+      1,458,926  shares;   and  (e)  the  following  units  issuable  under  the
+      Supplemental  Retirement  Plan: Mr. Sant - 4,342;  Mr. Bakke - 6,456;  Mr.
+      Hemphill - 1,298; Mr. Sharp - 1,183; Mr. Tribone - 1,452; Mr. Ruggirello -
+      576; Mr. Ryan - 1,135;  all executive  officers and directors as a group -
+      25,219.
+
+(3)   Includes  14,771,625  shares held  jointly by Mr. Sant and his wife.  Also
+      includes  122,382 shares held by his wife,  199,870 held in an IRA for the
+      benefit of Mr. Sant,  578,928  shares in a trust for Mr. Sant, and 129,742
+      shares held in an IRA for the benefit of his wife.  In addition,  includes
+      2,227,051  shares  held  by The  Summit  Foundation,  of  which  Mr.  Sant
+      disclaims beneficial ownership. Also includes term convertible securities,
+      Series A and Series B,  convertible into an aggregate of 977,000 shares of
+      common stock held in trust for Mr. and Mrs. Sant. Mr. and Mrs. Sant can be
+      reached c/o The AES Corporation,  1001 N. 19th Street, Arlington, Virginia
+      22209.
+
+(4)   Includes  9,521,661 shares held jointly by Mr. Bakke and his wife,  64,907
+      shares held by his children,  877,587  shares held by his wife and 183,866
+      shares held by the Mustard Seed  Foundation,  of which Mr. Bakke disclaims
+      beneficial  ownership.  Mr.  and Mrs.  Bakke  can be  reached  c/o The AES
+      Corporation, 1001 N. 19th Street, Arlington, Virginia 22209.
+
+(5)   Includes 10,652 shares held in an IRA for the benefit of Mr. Hemphill.
+
+(6)   Includes 52,781 shares held by Mr.  Jungers's wife and 565,485 shares held
+      by FJF, Inc.
+
+(7)   Includes 9,652 shares held by Mr. Unterberg's wife, of which Mr. Unterberg
+      disclaims beneficial ownership.
+
+(8)   Includes 4,740 and 92 shares,  held in IRAs for Mr. Waterman and his wife,
+      respectively, and 503,655 shares held in a family trust.
+
+(9)   Includes 86,682 shares held jointly by Mr. Sharp and his wife.
+
+(10)  Includes 6,333 shares held in trust for Mr. Ryan's children.
+
+(11)  Includes  2,935,726  shares held jointly by one executive  officer and his
+      wife,  and  238,402  shares  held in trust for his  children,  and 577,200
+      shares held in a family trust.  Includes  1,122,555 shares held jointly by
+      another  executive  officer and his wife,  and 56,416 shares held in trust
+      for his children.  Includes 55 shares held by another executive  officer's
+      wife. Includes 10,400 shares held jointly by another executive officer and
+      his wife.  Includes  157,314  shares  held  jointly by  another  executive
+      officer  and his wife,  and 3,976 and 2,512  shares held in IRAs for their
+      benefit.
+
+(12)  Of  this  aggregate  number,   BankAmerica  Corporation,   including  it's
+      affiliates, NB Holdings Corporation,  NationsBank,  N.A., BankAmerica NT &
+      SA,  NationsBanc  Advisors,  Inc.,  Trade Street  Investments  Associates,
+      NationsBanc  Montgomery  Securities LLC reported on SEC Form SC-13GA filed
+      with the Securities  Exchange  Commission  dated February 1, 1999, that it
+      had (a) sole  voting  power  on no  shares,  (b)  shared  voting  power on
+      4,181,450  shares,  (c) sole dispositive power on no shares and (d) shared
+      dispositive power on 10,084,216 shares.
+
+(13)  Of this aggregate number,  Capital Guardian Trust Company,  including it's
+      affiliates,  Capital  International,  Inc., Capital International Limited,
+      Capital  International  S.A.,  reported on SEC Form SC-13G  filed with the
+      Securities  Exchange  Commission  dated February 8, 1999,  that it had (a)
+      sole voting  power in  7,593,750  shares,  (b) shared  voting  power on no
+      shares,  (c) sole  dispositive  power on  9,589,850  shares and (d) shared
+      dispositive power on no shares.
+
+- --------------------------------------------------------------------------------
+
+
+                                       5
+<PAGE>
+
+COMPENSATION OF DIRECTORS
+
+Directors  who are also  officers  of AES are not  paid  any fees or  additional
+compensation for service as members of AES's Board of Directors or any committee
+thereof.  Each  director who is not  employed by AES received  $30,000 as annual
+cash compensation for service on the Board of Directors for 1998, and $1,000 for
+each board  meeting  attended in person and $500 for each meeting in which he or
+she participated by telephone  conference.  For 1999, the Director's annual cash
+compensation  is $30,000.  The  directors  may elect to defer this  compensation
+pursuant to the Deferred  Compensation  Plan for  Directors in the form of stock
+units.  All  directors  are  reimbursed  for travel and other  related  expenses
+incurred  in  attending  Board and  committee  meetings.  Directors  who are not
+employed by AES are not eligible to participate in AES's employee  benefit plans
+but participate in The AES Corporation  Stock Option Plan for Outside  Directors
+which was  adopted  in 1992.  Under the terms of the plan,  the  Company  issues
+options to purchase  shares of the  Company's  Common  Stock at a price equal to
+100% of the fair  market  value on the date the  option  is  granted.  Directors
+eligible to participate in the plan receive options  annually to purchase common
+stock valued at 83.3% of the annual fees payable to directors,  as determined by
+the Black-Scholes  formula on a basis consistent with the Company's stock option
+program.  These options become  eligible for exercise in  installments of 50% at
+the end of each of the first two years.
+
+
+COMMITTEES OF THE BOARD
+
+The  Board  has  four  standing  committees:  the Financial Audit Committee, the
+Environmental,  Safety  and  Social  Responsibility  Committee,  the  Nominating
+Committee, and the Compensation Committee.
+
+The Financial  Audit  Committee  recommends  which firm will be appointed by the
+Board of Directors as independent auditor to examine AES's financial  statements
+and to perform  services  related to the audit.  The Financial  Audit  Committee
+reviews  the  scope and  results  of the audit  with the  independent  auditors,
+reviews with the Company and the independent auditors AES's interim and year-end
+operating results, considers the adequacy of the internal accounting and control
+procedures  of AES,  reviews  any  non-audit  services  to be  performed  by the
+independent  auditors  and  considers  the  effect  of such  performance  on the
+auditors' independence. The Financial Audit Committee met once in 1998.
+
+
+The Environmental, Safety and Social Responsibility Committee was created by the
+Board in January  1997.  It monitors the  environmental  and safety  compliance,
+respectively,  of the Company and its  subsidiaries and reviews and approves the
+scope of the  Company's  internal  environmental  and  safety  compliance  audit
+programs to consider  the  adequacy and  appropriateness  of the programs  being
+planned and performed,  as well as periodically reviews the Company's commitment
+to, and implementation  of, its principle to act in a socially  responsible way.
+The Environmental, Safety and Social Responsibility Committee met twice in 1998.
+
+
+The Nominating  Committee provides  recommendations for potential nomination for
+election  of new members of the Board of  Directors.  The  Nominating  Committee
+considers potential  nominations  provided by stockholders and submits suggested
+nominations,  when  appropriate,  to the Board of Directors  for  approval.  The
+Nominating  Committee  did not meet in 1998.  Stockholders  wishing to recommend
+persons for  consideration by the Nominating  Committee as nominees for election
+to the Company's Board of Directors can do so by writing to the Secretary of the
+Company at 1001 North 19th Street,  Arlington,  Virginia 22209, giving each such
+person's name,  biographical data and  qualifications.  Any such  recommendation
+should be accompanied by a written statement from the person  recommended of his
+or her consent to be named as a nominee and, if nominated and elected,  to serve
+as a director. The Company's By-Laws also contain a procedure for
+
+
+                                       6
+<PAGE>
+
+stockholder  nomination  of directors. (See "Submission of Stockholder Proposals
+and Nominations" below.)
+
+The Compensation Committee establishes rates of salary,  bonuses, profit sharing
+contributions,  grants of stock options,  retirement and other  compensation for
+all  directors  and  officers of AES and for such other  people as the Board may
+designate.  All of the members of this  committee  are  "disinterested  persons"
+under the provisions of Rule 16b-3 adopted under the Securities  Exchange Act of
+1934, as amended (the "Exchange  Act").  The  Compensation  Committee's  primary
+responsibility  is to formulate  and maintain  the  compensation  program of the
+Company  in order to  develop,  retain  (and  attract,  when  necessary)  people
+important to the Company's  performance.  This  committee  specifically  acts to
+evaluate  the  performance  and set the  total  compensation  for the  executive
+officers of the Company,  including the CEO, in accordance  with the  guidelines
+discussed  below.  This  committee  has  delegated  to the CEO the  power to set
+compensation for the non-executive officers. The Compensation Committee met once
+in 1998.
+
+
+COMPENSATION COMMITTEE REPORT ON
+EXECUTIVE COMPENSATION
+
+The Compensation  Committee's (the  "Committee")  guidelines for compensation of
+executive  officers are designed to provide fair and competitive levels of total
+compensation  while  integrating  pay  with  performance.   Executive  officers,
+including  the CEO,  are  evaluated  annually  on the  basis of both  individual
+responsibilities  and  contributions,  as well as  Company-wide  results  in two
+related  areas:  (i)  corporate  culture (or  principles)  and (ii)  business or
+functional area performance.
+
+There  are  three  elements  in the  Company's  executive  officer  compensation
+program. These elements are:
+
+       o Base salary
+
+       o Annual incentive compensation
+
+       o Stock option program
+
+Base  salary is  adjusted  annually  by the  Committee  to account  for  general
+economic and cost of living changes.  Adjustments are also made  periodically to
+recognize significant new or additional responsibilities of individual executive
+officers.  The  Committee's  guidelines are to provide base salary  compensation
+generally   consistent  with  its   interpretation   of  industry  averages  for
+individuals with similar responsibility levels.
+
+Annual  incentive  compensation  is based  upon both  objective  and  subjective
+measures in the areas of  corporate  culture and  business  or  functional  area
+performance,  and generally  takes the form of bonuses  payable after  year-end.
+With respect to corporate culture,  the Company's shared principles of fairness,
+integrity,  fun and social  responsibility  are integral to its  operations  and
+serve as its founding principles. These principles apply equally to the internal
+activities of the Company as well as its external relationships.  Each executive
+officer's  individual  contribution to demonstrating  and nurturing these shared
+values is reviewed and  considered as a factor in determining  annual  incentive
+compensation.   Evaluations  by  the  Committee  in  this  area  are  inherently
+subjective.
+
+The second area considered in the determination of annual incentive compensation
+is the individual  executive  officer's  performance  with respect to his or her
+related business  responsibilities  and/or functional area. Although all aspects
+of  an  individual's  responsibilities  are  considered  in  determining  annual
+incentive compensation,  several quantitative measures of annual performance are
+considered  significant,  including  operating  margin  improvements,  operating
+reliability,  earnings per share contributions,  environmental performance,  and
+plant and Company-wide  safety. The qualitative  factors considered  significant
+include business and project development progress,  effective strategic planning
+and implementation,  Company-wide support, understanding of and adherence to the
+Company's values, and community relations and people development.
+
+
+                                       7
+<PAGE>
+
+Important  strategic  successes or failures can take several  years to translate
+into  objectively  measurable  results.  The Committee  does not compute  annual
+incentive   compensation   using  a  mathematical   formula  of   pre-determined
+performance goals and objective criteria.  As a result, the Committee's ultimate
+determination of the amount, if any, of annual incentive compensation is made at
+the end of each year based on a subjective  evaluation  of several  quantitative
+and qualitative factors,  with primary emphasis given this year to those factors
+listed in the  preceding  paragraph.  There are no targeted,  minimum or maximum
+levels  of  annual  incentive  compensation,  and  such  compensation  does  not
+necessarily  bear  any  consistent  relationship  to  salary  amounts  or  total
+compensation.
+
+The  Company's  stock option  program is used to reward people for the corporate
+responsibilities  they undertake,  their performance of those duties and to help
+them to think and act like owners.  All executive officers and approximately 69%
+of the total people in the Company  located in the United States  (approximately
+7% of AES people worldwide) participate in this program.  Historically,  because
+of differing legal  environments  in many countries,  options had been primarily
+granted to U.S.  people.  However,  the Company  has taken steps to  incorporate
+those  people who  reside  outside of the  United  States  into this  program by
+qualifying  its stock  option plan in each  country  where AES people  currently
+reside or work, and the Company expects the total  participation  to increase in
+the future.  Stock options are usually granted annually at the fair market value
+on the date of grant and provide  vesting periods to reward people for continued
+service to the Company.  The Committee's  determination of the number of options
+to be  granted to  executive  officers  is based  upon the same  factors as such
+officer's  annual  incentive   compensation   discussed  above  with  additional
+consideration given to the number of options previously granted.
+
+Since 1994,  the Company has  participated  in an annual survey  conducted by an
+outside  consulting firm which encompasses over 400 public  companies.  Based in
+part on the survey results, the Committee  established  guidelines for suggested
+ranges of option grants to executive  officers as well as the rest of the people
+in the Company.  Based on the survey, the Committee established guideline ranges
+for  eligible  participants  between  the 50th and 90th  percentile  of  similar
+companies.  As with  annual  incentive  compensation,  the  determination  of an
+individual's  grant is subjective  and although the  Committee  has  established
+suggested guidelines, the grants are not formula based.
+
+Total compensation is reviewed to determine whether amounts are competitive with
+other companies  whose  operations are similar in type, size and complexity with
+those of the  Company,  as well as a broad range of similarly  sized  companies.
+Comparisons are made with published amounts, where available,  and, from time to
+time, the Company also participates in various  industry-sponsored  compensation
+surveys in addition to the public-company  survey described above. The Committee
+also  has,  in the past,  engaged  an  independent  compensation  consultant  to
+specifically   review  the  level  and   appropriateness  of  executive  officer
+compensation.  Other than as  described  above,  the Company uses the results of
+surveys,  when available,  for  informational  purposes only and does not target
+individual  elements of or total  compensation  to any specific  range of survey
+results  (i.e.,  high,  low or  median)  other  than the  Committee's  suggested
+guidelines  for stock option  grants as  discussed  in the  previous  paragraph.
+Because each individual's compensation is determined, in part, by experience and
+performance, actual compensation generally varies from industry averages.
+
+Executive  officers also  participate  in the Company's  profit sharing plan (or
+deferred  compensation  plan for  executive  officers)  on the same terms as all
+other people in the Company,  subject to any legal  limitations  on amounts that
+may be  contributed  or benefits  that may be payable  under the plan.  Matching
+contributions and annual
+
+
+                                       8
+<PAGE>
+
+profit  sharing  contributions  are made with the common stock of the Company to
+further encourage long-term performance. In addition, certain individuals of the
+Company  participate  in  the  Company's  supplemental  retirement  plan,  which
+provides supplemental  retirement benefits to "highly compensated employees" (as
+defined in the Internal  Revenue Code) of any amount which would be  contributed
+on such  individual's  behalf  under the profit  sharing  plan (or the  deferred
+compensation plan for executive  officers) but is not so contributed  because of
+the limitations contained in the Internal Revenue Code.
+
+In most  cases,  the  Committee  has taken  steps to qualify  income paid to any
+officer as a deductible  business expense pursuant to regulations  issued by the
+Internal  Revenue  Service  pursuant to Section 162 (m) of the Internal  Revenue
+Code with  respect to  qualifying  compensation  paid to  executive  officers in
+excess of $1 million.  Compensation  earned  pursuant to the exercise of options
+granted under the Company's  former stock option plan (which was discontinued in
+1991) is not  considered  for purposes of the $1 million  aggregate  limit,  and
+exercises  under  the 1991  Plan are  similarly  excluded.  The  Committee  will
+continue  to  consider  the  implications  to  the  Company  of  qualifying  all
+compensation  as a  deductible  expense  under  Section 162 (m), but retains the
+discretion to pay bonuses commensurate with an executive officer's contributions
+to the success of the Company, irrespective of whether such amounts are entirely
+deductible.
+
+MR. BAKKE'S 1998 COMPENSATION
+
+Mr.  Bakke's  compensation  for  1998 was reviewed and approved by the Committee
+utilizing  the guidelines discussed above. Specifically, the following primarily
+positive factors considered were:
+
+o   Strong adherence,  understanding, and awareness by the people in the Company
+    to its shared principles of integrity,  fairness,  social responsibility and
+    fun, as indicated by the Company's  internal values survey,  with particular
+    emphasis  made  on  excellent   progress  made  at  the  Company's   foreign
+    subsidiaries.
+
+o   Net income and diluted earnings per share increased 68% and 55% from 1997 to
+    1998, respectively.
+
+
+o   Significant   development   of  new  project  and  business   opportunities,
+    including:
+
+
+    o   the acquisition of CLESA, a distribution company in El Salvador
+
+    o   the acquisition of Eletropaulo  Metropolitana,  the distribution company
+        for Sao Paolo, Brazil by an affiliate of AES
+
+    o   the acquisition of three  generating  stations  totalling  approximately
+        4,000 MW from Southern California Edison
+
+    o   the  acquisition of Edelap,  a  distribution  company in the province of
+        Buenos Aires, Argentina
+
+    o   agreements to acquire businesses in India, Panama,  Argentina,  Illinois
+        (U.S.) and New York (U.S.)
+
+    o   commencement  of operations at numerous  facilities,  including those in
+        China, the United Kingdom, the Netherlands and Argentina
+
+    o   numerous   project   development   successes   represented   by  project
+        financings,  start of  construction  or successful bid awards in Mexico,
+        Sri Lanka, Bangladesh and Argentina
+
+    o   Successful  public  issuance of  approximately  $200  million  aggregate
+        principal  amount of senior notes,  $150 million of  convertible  junior
+        subordinated debentures, and $190 million of common stock.
+
+o   Successful resolution of Pakistan political dispute
+
+o   An  exceptional  year in  plant  reliability  and  availability  across  the
+    Company.
+
+
+
+                                       9
+<PAGE>
+
+o   Continued  excellent  environmental  performance  below permitted levels (on
+    average).
+
+o   An increase in total net megawatts in operation,  in  construction  or under
+    advanced development from approximately 18,000 to 27,000.
+
+
+The following primarily negative factors considered were:
+
+o   While the  Company's  overall  safety  record  continued to improve in 1998,
+    several very serious  injuries  occurred,  including  six (five  amongst the
+    Company's contractors) that resulted in loss of life.
+
+o   An increase in the price of the Company's stock of 1%,  including a mid-year
+    drop of almost 60%.
+
+Mr. Bakke's 1998 cash compensation decreased 71% over 1997 cash compensation, as
+compared to a total cash compensation increase of approximately 52% from 1996 to
+1997.  However,  total  compensation  for  1998,  including  the  grant of stock
+options, increased approximately 33%.
+
+The Committee  decided that,  beginning in 1999, Mr.  Bakke's cash  compensation
+would be  reduced to $0. Mr.  Bakke will be  compensated  solely by the grant of
+stock options (in lieu of a cash salary and cash bonus).  The Committee believes
+that this  method of  compensation  will  align Mr.  Bakke's  compensation  more
+closely with the financial interests of the Company's other shareholders.
+
+
+                             Frank Jungers, Chairman
+
+                                Alice F. Emerson
+
+                             Robert H. Waterman, Jr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+
+- --------------------------------------------------------------------------------
+COMPENSATION OF EXECUTIVE OFFICERS
+
+     The following table discloses compensation received by the five most highly
+compensated  executive  officers  for the three years ended  December  31, 1998,
+adjusted through February 2, 1999.
+
+                          SUMMARY COMPENSATION TABLE
+
+<TABLE>
+<CAPTION>
+                                             ANNUAL COMPENSATION                         LONG TERM COMPENSATION
+                              -------------------------------------------------- ---------------------------------------
+                                                                                     SECURITIES
+                                                                 OTHER ANNUAL        UNDERLYING          ALL OTHER
+NAME AND PRINCIPAL POSITION    YEAR   SALARY ($)   BONUS ($)   COMPENSATION ($)   OPTIONS (#) (1)   COMPENSATION ($) (2)
+- ----------------------------- ------ ------------ ----------- ------------------ ----------------- ---------------------
+<S>                           <C>    <C>          <C>               <C>               <C>                 <C>
+DENNIS W. BAKKE               1998      500,000          -0-         11,924           160,000              56,000
+Chief Executive               1997      450,000    1,300,000          9,699            55,209              61,250
+Officer and President         1996      410,000      738,000         12,508           141,666              54,600
+
+BARRY J. SHARP                1998      225,000      500,000            264            16,667              28,500
+Senior Vice President and     1997      200,000      650,000          3,553            13,542              32,500
+Chief Financial Officer       1996      170,000      325,000          8,951            22,500              28,200
+
+THOMAS A. TRIBONE             1998      235,000      425,000            696            20,000              29,500
+Executive Vice President      1997      200,000      800,000          2,920            16,667              32,500
+                              1996      175,000      500,000         10,393            25,000              28,750
+
+JOHN R. RUGGIRELLO            1998      190,000      450,000          1,770            15,556              25,000
+Senior Vice President         1997      165,000      300,000          1,502            12,500              21,309
+                              1996      150,000      200,000          1,203            20,834              16,644
+
+J. STUART RYAN                1998      220,000      375,000        339,891*           16,667              28,000
+Senior Vice President         1997      200,000      425,000        237,003*           13,542              31,000
+                              1996      170,000      300,000        414,153*           29,164              26,700
+</TABLE>
+- ----------
+ *  Includes ex-patriate and relocation compensation.
+
+(1) The number of options shown as compensation as of December 31, 1998 were for
+    services  rendered  for  1998.  Those  stock  options  were  awarded  by the
+    Compensation Committee of the Board in February 1999.
+
+(2) This column constitutes Company  contributions to The AES Corporation Profit
+    Sharing and Stock  Ownership Plan and the Employee  Stock  Ownership Plan of
+    the Company, and allocations to the Company's Supplemental  Retirement Plan.
+    Specifically for 1998, (a) amounts contributed to The AES Profit Sharing and
+    Stock Ownership Plan and Employee Stock Ownership Plan: Mr. Bakke - $18,000;
+    Mr. Sharp - $18,000;  Mr. Tribone - $18,000;  Mr. Ruggirello - $18,000;  Mr.
+    Ryan - $18,000;  and (b) amounts  allocated to the  Supplemental  Retirement
+    Plan: Mr. Bakke - $38,000;  Mr. Sharp - $10,500;  Mr. Tribone - $11,500; Mr.
+    Ruggirello - $7,000; Mr. Ryan - $10,000.
+
+
+                                       11
+<PAGE>
+
+OPTION GRANTS IN LAST FISCAL YEAR
+
+     The following table provides information on options granted for 1998 to the
+named executive officers.
+
+<TABLE>
+<CAPTION>
+                                                % OF TOTAL
+                                  NUMBER OF       OPTIONS
+                                 SECURITIES       GRANTED
+                                 UNDERLYING       TO ALL
+                                   OPTIONS      AES PEOPLE       EXERCISE                       GRANT DATE
+                                   GRANTED      FOR FISCAL        OR BASE       EXPIRATION     PRESENT VALUE
+NAME AND PRINCIPAL POSITION        (#)(1)          YEAR        PRICE ($/SH)        DATE           ($) (2)
+- -----------------------------   ------------   ------------   --------------   ------------   --------------
+<S>                             <C>            <C>            <C>              <C>            <C>
+DENNIS W. BAKKE                   160,000      16.3%          34.25              2/02/09        3,600,000
+Chief Executive
+Officer and President
+BARRY J. SHARP                     16,667       1.7%          34.25              2/02/09          375,008
+Senior Vice President and
+Chief Financial Officer
+THOMAS A. TRIBONE                  20,000       2.0%          34.25              2/02/09          450,000
+Executive Vice President
+JOHN R. RUGGIRELLO                 15,556       1.6%          34.25              2/02/09          350,010
+Senior Vice President
+J. STUART RYAN                     16,667       1.7%          34.25              2/02/09          375,008
+Senior Vice President
+
+</TABLE>
+
+- ----------
+(1) All options are for shares of Common Stock of the Company.  Options  granted
+    for services  performed in 1998 were granted at the fair market value on the
+    date of grant, and vest at the rate of 50% per year through December 2000.
+
+(2) The  Black-Scholes  stock option  pricing  model was used to value the stock
+    options on the grant date  (February  2, 1999).  The  Company's  assumptions
+    under this model include an expected volatility of 48.55%, a 4.66% risk free
+    rate of return and no dividends.  The options have 10 year terms and vest at
+    50%  per  year.  There  were no  adjustments  made to  account  for  vesting
+    provisions,  and no adjustments were made for non-transferability or risk of
+    forfeiture.
+
+  The use of such  amounts and  assumptions  are not  intended  to forecast  any
+  possible future appreciation of the Company's stock price or dividend policy.
+
+
+                                       12
+<PAGE>
+
+AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR, AND FISCAL YEAR-END O
+PTION VALUE
+
+     The following table provides information on option exercises in 1998 by the
+named executive officers and the value of such officers'  unexercised options at
+December 31, 1998.
+
+<TABLE>
+<CAPTION>
+                                                                                   NUMBER OF          DOLLAR
+                                                                                   SECURITIES        VALUE OF
+                                                                                   UNDERLYING       UNEXERCISED
+                                                                                  UNEXERCISED      IN-THE-MONEY
+                                                                                   OPTIONS AT       OPTIONS AT
+                                                      NUMBER OF                      FY-END           FY-END
+                                                        SHARES        DOLLAR    --------------- ------------------
+                                                     ACQUIRED ON      VALUE       EXERCISABLE/     EXERCISABLE/
+NAME AND PRINCIPAL POSITION                            EXERCISE    REALIZED (1)  UNEXERCISABLE   UNEXERCISABLE (2)
+- --------------------------------------------------- ------------- ------------- --------------- ------------------
+<S>                                                 <C>           <C>           <C>             <C>
+DENNIS W. BAKKE                                        44,188       1,579,058       736,766/        26,812,474/
+Chief Executive Officer and President                                                 75,171          2,032,754
+BARRY J. SHARP                                         38,626       1,720,305       251,280/         9,674,956/
+Senior Vice President and Chief Financial Officer                                     21,300            606,993
+THOMAS A. TRIBONE                                      33,476         872,575       288,971/        11,256,130/
+Executive Vice President                                                              22,170            593,865
+JOHN R. RUGGIRELLO                                     10,428         467,806       151,388/         5,422,130/
+Senior Vice President                                                                 14,250            357,344
+J. STUART RYAN                                            -0-             -0-       340,378/        12,851,456/
+Senior Vice President                                                                 30,176            938,172
+</TABLE>
+
+- ----------
+(1) The amounts in this column have been  calculated  based upon the  difference
+    between the fair market value of the securities underlying each stock option
+    on the date of exercise and its exercise price.
+
+(2) The amounts in this column have been calculated based on the difference
+    between  the  fair  market  value  on December 31, 1998 of $47.375 per share
+    for  each  security  underlying such stock option and the per share exercise
+    price.
+- --------------------------------------------------------------------------------
+
+
+                                       13
+<PAGE>
+
+                  THE AES CORPORATION STOCK PRICE PERFORMANCE
+
+
+
+                                [GRAPHIC OMITTED]
+
+
+
+PEER GROUP INDEX*
+
+The  1998  Peer Group consists of the following publicly-traded companies in the
+global  power generation industry: Edison International, CMS Energy Corporation,
+CalEnergy Company, Inc. and National Power, PLC.
+
+The 1998 Peer Group Index  reflects  the weighted  average  total return for the
+entire  Peer  Group  calculated  for the  period in which the  Company's  equity
+securities were registered with the Securities and Exchange  Commission pursuant
+to the Exchange  Act,  from a base of 100. In  compliance  with  Securities  and
+Exchange  Commission  regulations,  the returns of each company in the 1998 Peer
+Group Index have been weighted  according to their market  capitalization  as of
+the beginning of the period.
+
+The Report of the Compensation  Committee on Executive  Compensation and The AES
+Corporation  Stock Price Performance Graph shall not be deemed to be "soliciting
+material"  or to be "filed"  with the  Securities  and  Exchange  Commission  or
+subject to Regulation 14A or 14C under the Exchange Act.
+
+- ----------
+* Excludes The AES Corporation
+
+                                       14
+<PAGE>
+
+SECTION 16 (A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+Based solely on the Company's review of reports filed under Section 16(a) of the
+Securities  Exchange  Act of  1934  and  certain  representations,  the  Company
+believes  that in 1998 there were no reports which were not reported on a timely
+basis and no known failure to file a required form,  except that Dr. Emerson did
+not timely  report the  purchase of 423 shares on Form 4; Mr.  Hanrahan  did not
+timely  report the sale of 21,998  shares from his AES Profit  Sharing and Stock
+Ownership Plan account on Form 4; Mr. McMillen did not timely report the sale of
+10,000  shares on Form 4; Mr.  Prieto did not  timely  report the sale of 21,902
+shares on Form 4; and Ms. Slusser did not timely report the sale of 4,324 shares
+from her AES Profit Sharing and Stock Ownership Plan account on Form 4.
+
+PROPOSAL 2
+APPOINTMENT OF AUDITORS
+
+The  Board  of  Directors  has  appointed  Deloitte  &  Touche  LLP,  a firm  of
+independent   public   accountants,   as  auditors  to  examine  and  report  to
+stockholders for the year 1999. Deloitte & Touche LLP has acted as the Company's
+independent   auditors   since  1981.   The   appointment   was  made  upon  the
+recommendation  of the  Financial  Audit  Committee  of the Board of  Directors.
+Representatives  of Deloitte & Touche LLP will be present at the Annual  Meeting
+and  will be  given  an  opportunity  to make a  statement.  They  also  will be
+available to respond to appropriate questions.
+
+The Board of Directors  recommends that the stockholders  ratify the appointment
+of Deloitte & Touche LLP,  and intends to introduce  at the  forthcoming  Annual
+Meeting the following resolution (designated herein as Proposal 2):
+
+    "RESOLVED,  that the appointment by the Board of Directors of Deloitte &
+    Touche LLP as independent auditors for this Company for the year 1999 is
+    hereby approved, ratified and confirmed."
+
+The  affirmative  vote of the  holders of a majority  of shares of Common  Stock
+entitled  to notice of and to vote at the  Annual  Meeting of  Stockholders,  at
+which a quorum is present,  is necessary for the ratification of the appointment
+of Deloitte & Touche LLP as  independent  auditors  for the Company for the year
+1999.
+
+
+SUBMISSION OF STOCKHOLDER PROPOSALS AND NOMINATIONS
+
+Any stockholder  entitled to vote in the election of directors and who meets the
+requirements  of the proxy rules under the  Exchange Act may submit to the Board
+of Directors  proposals to be considered for submission to the  stockholders  at
+the Year 2000 Annual  Meeting.  Any such proposal should be submitted in writing
+by notice  delivered  or mailed  by  first-class  United  States  mail,  postage
+prepaid,  to the  Secretary,  The  AES  Corporation,  1001  North  19th  Street,
+Arlington,  Virginia  22209 and must be received no later than February 13, 2000
+in compliance  with new  regulations  promulgated  by the  Commission.  Any such
+notice shall set forth: (a) the name and address of the stockholder and the text
+of the  proposal  to be  introduced;  (b) the  number of shares of stock held of
+record,  owned  beneficially  and represented by proxy by such stockholder as of
+the date of such notice; and (c) a representation  that the stockholder  intends
+to appear  in  person  or by proxy at the  meeting  to  introduce  the  proposal
+specified  in  the  notice.  The  chairperson  of  the  meeting  may  refuse  to
+acknowledge the introduction of any stockholder  proposal not made in compliance
+with the foregoing procedure.
+
+AES's By-Laws contain a procedure for stockholder  nomination of directors.  The
+By-Laws provide that any record owner of stock entitled to be voted generally in
+the  election of  directors  may  nominate one or more persons for election as a
+director  at a  stockholders  meeting  only if  written  notice  is given to the
+Secretary  of AES of the  intent to make such  nomination.  The  notice  must be
+given,  with respect to an annual meeting,  not later than 90 days in advance of
+such annual
+
+
+                                       15
+<PAGE>
+
+meeting  and with  respect  to a special  meeting,  not later  than the close of
+business  on the  seventh  day  following  the  earlier of (a) the date on which
+notice of such special meeting is first given to  stockholders  and (b) the date
+on which a public  announcement  of such meeting is first made. Each notice must
+include  (i) the name and address of each  stockholder  who intends to appear in
+person or by proxy to make the  nomination  and of the  person or  persons to be
+nominated;  (ii) a description of all arrangements or understandings between the
+stockholder  and each  nominee  and any other  person or persons  (naming  them)
+pursuant to which the  nomination is to be made by the  stockholder;  (iii) such
+other  information  regarding each nominee proposed by such stockholder as would
+have been included in a proxy  statement  filed pursuant to Rule 14a-8 under the
+Exchange  Act;  and (iv) the consent of each  nominee to serve if  elected.  The
+presiding officer of the meeting may refuse to acknowledge the nomination of any
+person not made in compliance with this procedure. The procedure for stockholder
+nomination  of  directors  described  above may have the effect of  precluding a
+nomination  for election of  directors  at a particular  meeting if the required
+procedure is not followed.
+
+
+SOLICITATION OF PROXIES
+
+Proxies will be solicited by mail,  telephone,  or other means of communication.
+The Company has retained the services of First Chicago Trust Company of New York
+and Corporate  Investor  Communications,  Inc. to assist in the  solicitation of
+proxies  from  stockholders  for a fee,  including  its  expenses,  estimated at
+$5,000.  In  addition,  solicitation  may be made by  directors,  officers,  and
+regular  employees of the Company.  The Company will reimburse  brokerage firms,
+custodians,  nominees,  and  fiduciaries  in  accordance  with the  rules of the
+National  Association  of Securities  Dealers,  Inc.,  for  reasonable  expenses
+incurred by them in forwarding materials to the beneficial owners of shares. The
+entire cost of solicitation will be borne by the Company.
+
+
+FORM 10-K ANNUAL REPORT
+
+ANY  STOCKHOLDER  WHO DESIRES A COPY OF THE COMPANY'S 1998 ANNUAL REPORT ON FORM
+10-K  FILED  WITH THE  SECURITIES  AND  EXCHANGE  COMMISSION  MAY  OBTAIN A COPY
+(EXCLUDING  EXHIBITS)  WITHOUT  CHARGE BY ADDRESSING A REQUEST TO THE SECRETARY,
+THE AES CORPORATION, 1001 NORTH 19TH STREET, ARLINGTON, VIRGINIA 22209. EXHIBITS
+ALSO MAY BE REQUESTED,  BUT A CHARGE EQUAL TO THE REPRODUCTION COST THEREOF WILL
+BE  MADE.  STOCKHOLDERS  MAY  ALSO  VISIT  THE  COMPANY'S  WEB  SITE AT  HTTP://
+WWW.AESC.COM
+
+
+By Order of the Board Of Directors,
+
+
+William R. Luraschi
+Vice President and Secretary
+
+
+                                       16
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

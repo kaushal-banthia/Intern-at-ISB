@@ -1,0 +1,1307 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F5TeMRBTfyedF+4PRzDSkiKX+zGoLAOA0kQUDGj8MQE7HzM0ocZ4rEQ5Q3hhmVZn
+ FidZgICHyiJLhtaSaZxyHw==
+
+<SEC-DOCUMENT>0000930661-03-000096.txt : 20030114
+<SEC-HEADER>0000930661-03-000096.hdr.sgml : 20030114
+<ACCEPTANCE-DATETIME>20030113104944
+ACCESSION NUMBER:		0000930661-03-000096
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20030214
+FILED AS OF DATE:		20030113
+EFFECTIVENESS DATE:		20030113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TXU CORP /TX/
+		CENTRAL INDEX KEY:			0001023291
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				752669310
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12833
+		FILM NUMBER:		03511743
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ENERGY PLAZA
+		STREET 2:		1601 BRYAN ST
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+		BUSINESS PHONE:		2148125210
+
+	MAIL ADDRESS:	
+		STREET 1:		1601 BRYAN STREET
+		STREET 2:		SUITE 36056
+		CITY:			DALLAS
+		STATE:			TX
+		ZIP:			75201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TUC HOLDING CO
+		DATE OF NAME CHANGE:	19960919
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TEXAS UTILITIES CO /TX/
+		DATE OF NAME CHANGE:	19970805
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>ddef14a.htm
+<DESCRIPTION>DEFINITIVE PROXY STATEMENT
+<TEXT>
+<HTML><HEAD>
+<TITLE>Definitive Proxy Statement</TITLE>
+</HEAD>
+  <BODY BGCOLOR="WHITE">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>SCHEDULE 14A INFORMATION </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Proxy Statement Pursuant to Section 14(a) of the </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Securities Exchange Act of 1934 </B></FONT></DIV>
+<DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>(Amendment No. 1) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Filed by the
+Registrant </FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><FONT FACE="WINGDINGS">&#120;</FONT></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"> </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Filed by a Party other than the Registrant </FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2"
+COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT
+FACE="ARIAL" SIZE="2" COLOR="#000000">Check the appropriate box: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="top" WIDTH="48%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp; Preliminary Proxy Statement</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" WIDTH="48%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B></B></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>&nbsp; Confidential, for Use of the Commission Only</B></FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;(as permitted by Rule
+14a-6(e)(2))</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="48%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><FONT FACE="WINGDINGS">&#120;</FONT></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp; Definitive
+Proxy Statement</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="48%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"
+COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp; Definitive Additional Materials</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD VALIGN="bottom" COLSPAN="3" WIDTH="50%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp; Soliciting Material Pursuant to &#167;240.14a-11(c) or &#167;240.14a-12</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>TXU Corp. </B></FONT></DIV> <HR SIZE="1"
+NOSHADE COLOR="#000000" ALIGN="left"><DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>(Name of Registrant as Specified In Its Charter) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"
+ALIGN="left"><DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>(Name of Person(s) Filing Proxy Statement, if other than the Registrant) </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Payment of Filing Fee (Check the appropriate box): </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"><FONT FACE="WINGDINGS">&#120;</FONT></FONT><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">No Fee required. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(1)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Title of each class of securities to which transaction applies: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(2)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Aggregate number of securities to which transaction applies: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(3)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state
+how it was determined): </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(4)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Proposed maximum aggregate value of transaction: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(5)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Total fee paid: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Fee paid previously with preliminary materials. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify
+the previous filing by registration statement number, or the Form or Schedule and the date of its filing. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(1)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Amount Previously Paid: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(2)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Form, Schedule or Registration Statement No.: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(3)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Filing Party: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(4)&nbsp;</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Date Filed: </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">Notes: </FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>
+
+<IMG SRC="g78692g18u48.jpg" ALT="LOGO"> </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="7" COLOR="#000000"><B>TXU Corp.
+</B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="7" COLOR="#000000">Notice of Special Meeting </FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="7" COLOR="#000000">of
+Shareholders and </FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="7" COLOR="#000000">Proxy Statement </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT
+FACE="ARIAL" SIZE="4" COLOR="#000000"><B>Special&nbsp;Meeting&nbsp;of&nbsp;Shareholders: </B></FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>Friday, February 14, 2003 at 9:30 a.m. </B></FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="4"
+COLOR="#000000"><B>Wyndham Dallas Market Center Hotel Ballroom </B></FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>2015 Market Center Boulevard </B></FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>Dallas, Texas
+75207&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000">Whether or not you will be able to attend the
+annual meeting, please sign and </FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000">return the proxy promptly so that you may be represented at the meeting. </FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>TXU Corp. </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="ARIAL" SIZE="3" COLOR="#000000"><B>1601 Bryan Street </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Dallas, Texas 75201-3411 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE
+WIDTH="21%" COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>NOTICE OF SPECIAL MEETING OF SHAREHOLDERS </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1"
+NOSHADE WIDTH="21%" COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">January 13, 2003 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">To the Shareholders of TXU Corp.: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">A special meeting of shareholders of TXU Corp. will be held in the
+Ballroom of the Wyndham Dallas Market Center Hotel, 2015 Market Center Boulevard, Dallas, Texas on Friday, February&nbsp;14, 2003 at 9:30&nbsp;a.m. The purpose of the meeting is to approve a reduction of the Company&#146;s stated capital in
+accordance with the provisions of the Texas Business Corporation Act. Such reduction of stated capital will increase the Company&#146;s surplus by an equal amount and thereby enable the Company to pay dividends to its shareholders. </FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The Board of Directors has fixed the close of business on January 3, 2003 as the time as of which shareholders entitled to notice of, and
+to vote at, the meeting and any adjournments shall be determined. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>Whether or not you will be able to attend the meeting,
+PLEASE SIGN AND RETURN THE ACCOMPANYING PROXY PROMPTLY. No postage need be affixed to the reply envelope which is enclosed herewith for your convenience if it is mailed in the United States. </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:54%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Peter B. Tinkham </FONT></DIV> <DIV STYLE="margin-left:54%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000"><I>Secretary</I> </FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="4" COLOR="#000000"><B>TXU Corp. </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3"
+COLOR="#000000"><B>1601 Bryan Street </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Dallas, Texas 75201-3411 </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="21%"
+COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>PROXY STATEMENT </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="21%"
+COLOR="#000000"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">January 13, 2003 </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">A proxy in the accompanying form is solicited by the Board of Directors of TXU Corp. for use at the special meeting of shareholders to be held in the Ballroom of the Wyndham Dallas Market Center Hotel, 2015 Market Center Boulevard,
+Dallas, Texas on Friday, February 14, 2003 at 9:30 a.m. and any adjournments thereof for the purpose set forth in the accompanying notice. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">The close of business on January 3, 2003 has been fixed as the time as of which shareholders entitled to notice of, and to vote with respect to, this meeting shall be determined. At such date there were outstanding and entitled to
+vote 322,077,846 shares of common stock. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">This Notice, Proxy Statement and form of proxy are being mailed or given to
+shareholders on or about January 13, 2003. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The cost of soliciting proxies will be borne by the Company. In addition to use
+of the mails, proxies may be solicited by directors, officers and regular employees of the Company in person or by telephone. <B></B>The Company has hired D. F. King &amp; Co., Inc. to assist in the solicitation of proxies at an estimated cost of
+$10,000 plus disbursements. Shareholders may assist the Company in avoiding expenses in this connection by returning their proxies promptly. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL"
+SIZE="2" COLOR="#000000">The shares represented by any proxy duly given as a result of this request will be voted in the discretion of the persons named in the proxy unless the shareholder specifies a choice by means of the ballot space on the
+proxy, in which case the shares will be voted accordingly. Any proxy delivered pursuant to this solicitation is revocable at the option of the person executing the same by providing written notice to the Secretary of the Company, 1601 Bryan Street,
+Dallas, Texas 75201-3411, on or before its exercise at the special meeting. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The Company has adopted a confidential voting
+policy. Accordingly, the tabulation of proxies and votes cast at the meeting will be conducted by an independent agent and the votes of individual shareholders will be kept private and not disclosed to the Company, except in limited circumstances.
+</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The presence in person or by proxy of the holders of a majority of the shares of the common stock entitled to vote shall
+constitute a quorum entitled to transact business at the meeting. The approval of the reduction of stated capital requires the affirmative vote of a majority of the outstanding shares entitled to vote at the meeting. Abstentions and non-votes, i.e.
+shares held by brokers and other nominees or fiduciaries that are present at the meeting but not voted, will be treated as negative votes. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000">Under the Texas Business Corporation Act, shareholders will not have dissenters&#146; rights in connection with the voting on the reduction of the Company&#146;s stated capital. </FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">1 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>BENEFICIAL OWNERSHIP OF COMMON STOCK OF THE COMPANY </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Each director and executive officer of the Company reported beneficial ownership of common stock of the Company, as of December 31, 2002, as
+follows: </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+<TR>
+<TD colspan="2"> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="6" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Number of Shares</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="9%"> <div align="left"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</B></FONT></div> <div align="left"></div> </TD>
+<TD VALIGN="bottom" WIDTH="71%"><font face="ARIAL" size="1" color="#000000"><b>Name</b></font> <hr size="1" NOSHADE color="#000000" width="5%" align="left"> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" width="9%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Beneficially<br> Owned</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"> </TD>
+<TD VALIGN="bottom" width="2%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" width="5%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Deferred Plans (1)</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" width="6%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Total</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Derek C. Bonham</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">4,000</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">N/A</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">4,000</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">J. S. Farrington</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">25,423</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">0</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">25,423</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">William M. Griffin</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">46,000</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(2)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">6,125</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">52,125</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Kerney Laday</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">2,100</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">6,125</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">8,225</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Jack E. Little</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3,000</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(3)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3,564</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">6,564</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Margaret N. Maxey</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7,056</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7,864</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">14,920</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Erle Nye</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">418,065</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">87,204</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">505,269</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">J. E. Oesterreicher</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3,698</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(4)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">10,225</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">13,923</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Charles R. Perry</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">9,700</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(5)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">6,125</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">15,825</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Herbert H. Richardson</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3,500</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(6)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">5,096</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">8,596</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Barbara B. Curry</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">22,105</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">15,567</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">37,672</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Brian N. Dickie</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">49,135</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">45,663</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">94,798</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Michael J. McNally</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">126,098</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">33,508</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">159,606</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Eric H. Peterson</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">26,266</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">0</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">26,266</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" colspan="2"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">All Directors and Executive Officers as a group (14 persons)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom" width="9%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">746,146</FONT></DIV> </TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom" width="2%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="5%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">227,066</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="0%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right" WIDTH="6%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">973,212</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <HR SIZE="1" NOSHADE WIDTH="10%" COLOR="#000000" ALIGN="left"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(1)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Share units held in deferred compensation accounts under the Deferred and Incentive Compensation Plan or the Directors&#146; Plan. Although these plans allow such units
+to be paid only in the form of cash, investments in such units create essentially the same investment stake in the performance of the Company&#146;s common stock as do investments in actual shares of common stock. Since he does not receive a
+retainer, Mr. Bonham is not eligible to participate in the Directors&#146; Plan. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(2)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Shares reported include 10,000 shares owned by Mr. Griffin&#146;s spouse as her separate property in which Mr. Griffin disclaims any beneficial interest. </FONT></DIV>
+</TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(3)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Shares reported consist of shares in which Dr. Little and his spouse share voting and investment power. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(4)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Shares reported include 898 shares subject to stock purchase rights exercisable within 60 days of the record date. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(5)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Shares reported include 200 shares owned by Mr. Perry&#146;s spouse as her separate property in which Mr. Perry disclaims any beneficial interest. </FONT></DIV>
+</TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(6)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Shares reported include 100 shares in which Dr. Richardson and his spouse share voting and investment power. </FONT></DIV> </TD></TR></TABLE> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Except as noted, the named individuals have sole voting and investment power for the shares of common stock reported as Beneficially Owned.
+Ownership of such common stock by each individual director and executive officer and for all directors and executive officers as a group constituted less than 1% of the Company&#146;s common stock. </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">2 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Based on information reported in filings made by the following person with the Securities and Exchange Commission on February 11,
+2002, the following person was known to be the beneficial owner of more than 5% of the Company&#146;s common stock. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="75%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom" WIDTH="31%" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Name and Address of</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Beneficial
+Owner</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="95" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Shares</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Beneficially</B></FONT></DIV> <DIV ALIGN="center"><FONT
+FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Owned</B></FONT></DIV> <HR SIZE="1" NOSHADE WIDTH="40" COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Percent</B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>of Class</B></FONT></DIV> <HR SIZE="1" NOSHADE
+WIDTH="45" COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="31%"> <DIV STYLE="margin-left:2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Capital Research and</FONT></DIV> <DIV STYLE="margin-left:2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Management Company</FONT></DIV> <DIV
+STYLE="margin-left:2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">333 South Hope Street</FONT></DIV> <DIV STYLE="margin-left:2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Los Angeles, California</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">24,945,190</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="31%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7.2%</FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Capital Research and Management Company acted as investment adviser with
+respect to shares of the Company&#146;s common stock owned by various investment companies and had sole dispositive power and no voting power over such shares. Shares reported include 1,077,690 shares subject to stock purchase rights. </FONT></DIV>
+<DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Mellon Bank, N.A. (Mellon) held, as of December 31, 2002, in its capacity as Trustee of the TXU Thrift Plan (Thrift Plan) and the TXU
+Deferred and Incentive Compensation Plan (DICP), a total of 17,349,163 shares of the Company&#146;s common stock, or 5.0% of the class, of which 12,372,406 shares, or 3.6% of the class, have been allocated to Thrift Plan participants&#146; accounts.
+Thrift Plan participants are entitled to direct Mellon as to how to vote shares allocated to their accounts, and Mellon disclaims beneficial interest in such allocated shares. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">In November 2002, TXU Energy Company LLC, a wholly-owned subsidiary of the Company, issued $750 million of subordinated notes that are exchangeable into common stock of the Company.
+As of December 31, 2002, there were 14 holders of the notes. Two noteholders, holding a total of $500&nbsp;million aggregate principal amount of the notes, are entities affiliated with DLJ Merchant Banking Partners III, L.P. (DLJ Entities) which in
+turn is an affiliate of the Credit Suisse Group, a Swiss corporation. Twelve noteholders, holding a total of $250 million aggregate principal amount of the notes, are entities affiliated with Berkshire Hathaway Inc. (Berkshire Entities). The notes
+provide certain limitations on exchangeability relating to the receipt of any necessary regulatory approvals and the expiration or termination of any applicable waiting period. As a result, the Company is not able to determine whether any of the DLJ
+Entities or any of the Berkshire Entities, individually or as a member of a group, currently would be deemed to be a beneficial owner (as determined in accordance with Rule 13d-3 under the Exchange Act) of 5% or more of the Company's common stock.
+However, after receipt of any required regulatory approvals and the expiration or termination of any applicable waiting period, the notes currently held by the DLJ Entities could be exchanged for an aggregate of approximately 38,097,560 shares of
+the Company's common stock, or 11.0% of the class, and the notes held by the Berkshire Entities could be exchanged for an aggregate of approximately 19,048,780 shares of the Company's common stock, or 5.5% of the class. </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">All percentages reported under Beneficial Ownership of Common Stock of the Company are based on the number of outstanding shares as of January 3,
+2003 plus shares issuable upon settlement of outstanding stock purchase contracts. </FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>APPROVAL OF REDUCTION OF STATED CAPITAL </B></FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The Board of Directors has unanimously approved a reduction of the Company&#146;s stated capital in accordance with the provisions of the Texas
+Business Corporation Act (TBCA) and has directed that the proposed reduction be submitted for shareholder approval. The reduction in the Company&#146;s stated capital will increase the Company&#146;s surplus by an equal amount and thereby enable the
+Company to pay dividends to its shareholders. The stated capital of a Texas corporation&#146;s stock that is without par value, such as the Company&#146;s common stock, is equal to the entire consideration received for the issuance of such shares,
+unless the board of directors has previously allocated a portion of such consideration to surplus. Surplus, under the TBCA, is defined as a corporation&#146;s net assets less its stated capital. Prior to the proposed reduction, the Company&#146;s
+surplus was equal to its retained earnings. After the reduction, the Company&#146;s surplus will equal the sum of its retained earnings plus the amount by which stated capital is reduced. As illustrated on the table on page 5, this reclassification
+will be accomplished by a reduction in &#147;common stock without par value&#148; and an equal increase in &#147;additional paid-in capital&#148;, both within the shareholders&#146; equity section of the Company&#146;s balance sheet. The reduction
+of stated capital will not change total shareholders&#146; equity nor change any of your rights and privileges as a shareholder of the Company. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL"
+SIZE="2" COLOR="#000000">Under the TBCA, a Texas corporation may not make any distribution, including a dividend, to its shareholders, if, among other things, such distribution exceeds such corporation&#146;s surplus. It is anticipated that the
+Company will record a charge against its retained earnings in the fourth quarter of 2002 as a consequence of the impairment of the value of its European operations. It is estimated that this charge will be $4.2 billion. The anticipated charge will
+eliminate the Company&#146;s retained earnings and therefore its current surplus under the TBCA. Thus, if the reduction in stated capital is not approved by the shareholders, after giving effect to this anticipated charge, the Company will not be
+able to pay dividends until such time as its surplus is restored to a positive balance. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">At September 30, 2002, the stated
+capital of the Company&#146;s common stock was $7.516 billion and there were 286,779,225 shares of common stock outstanding. Because the Company&#146;s common stock is without par value, its stated capital presently consists of the aggregate amount
+received by the Company upon issuance of all currently issued and outstanding shares of common stock. Pursuant to the TBCA, and if approved by shareholders, the stated capital of the Company would be reduced to an amount equal to one cent times the
+number of outstanding shares of Common Stock on the effective date of the reduction, or by approximately $7.513 billion from approximately $7.516 billion to approximately $3 million, and the surplus of the Company will be increased by approximately
+$7.513&nbsp;billion. The common stock of the Company will remain without par value after the reduction in stated capital. However, the Company&#146;s common stock account will resemble that of a corporation that had issued $0.01 par value stock. The
+reduction of stated capital will have no effect on the treatment of dividends for federal income tax purposes and does not require an amendment to the Company&#146;s Articles of Incorporation. </FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">4 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The following table illustrates the effect of the reduction of stated capital, if approved
+by shareholders, on total shareholders&#146; equity of the Company as if it had occurred as of September 30, 2002. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2"
+COLOR="#000000"><B>SHAREHOLDERS&#146; EQUITY </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>September&nbsp;30, 2002</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Stated Capital Reduction</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>September&nbsp;30, 2002, as adjusted</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="10" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Millions of Dollars</B></FONT></DIV> </TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Preference stock</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">300</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">300</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Common stock without par value:(1)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Outstanding shares: 286,779,225</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7,516</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(7,513</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">3</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Additional paid-in capital(2)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7,513</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">7,513</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Retained earnings(3)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">2,021</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">2,021</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Accumulated other comprehensive loss</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(562</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(562</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">)</FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="1" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="1" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD> </TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top" WIDTH="60%"> <DIV STYLE="margin-left:6%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Total shareholders&#146; equity(4)</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">9,275</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&#151;&nbsp;&nbsp;</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">$</FONT></DIV> </TD>
+<TD VALIGN="bottom"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">9,275</FONT></DIV> </TD>
+<TD NOWRAP VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">&nbsp;</FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD> <HR SIZE="3" NOSHADE ALIGN="right" COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE COLOR="#000000"></TD>
+<TD> <HR SIZE="3" NOSHADE WIDTH="0" ALIGN="left" COLOR="#ffffff"></TD> </TR>
+ </TABLE> </DIV> <HR SIZE="1" NOSHADE WIDTH="10%" COLOR="#000000" ALIGN="left">
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(1)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Stated capital of the Company&#146;s common stock. As noted on page 4, since the common stock of the Company is without par value, the aggregate amount received by the
+Company upon issuance of all currently issued and outstanding shares of common stock has been recorded as stated capital. </FONT></DIV> </TD></TR></TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(2)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Following shareholder approval, the amount in excess of one cent times the number of outstanding shares of common stock (estimated to be $7.513 billion at September 30,
+2002) will be transferred from stated capital to surplus (as additional paid-in capital). </FONT></DIV> </TD></TR></TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(3)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Accumulated earnings, after the payment of dividends, retained by the Company for its operations. As noted on page 4, it is anticipated that the Company will record a
+charge estimated to be $4.2&nbsp;billion against retained earnings in the fourth quarter of 2002 as a consequence of the impairment of the value of its European operations. </FONT></DIV> </TD></TR></TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(4)</FONT></DIV></TD>
+<TD WIDTH="1%" VALIGN="top"><DIV><FONT SIZE="1">&nbsp;</FONT></DIV></TD>
+<TD ALIGN="left" VALIGN="top"><DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Total shareholders&#146; equity will not be affected by the reclassification of a portion of &#147;common stock without par value&#148; to &#147;additional paid-in
+capital.&#148; </FONT></DIV> </TD></TR></TABLE> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The affirmative vote of the holders of at least a majority of the outstanding common
+stock is required for approval of the reduction in stated capital. If the reduction in stated capital is approved by the shareholders of the Company, the reduction would become effective upon the filing of a Statement of Reduction of Stated Capital
+with the Secretary of State of the State of Texas which will occur immediately following the approval. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>The Board of Directors
+Recommends a Vote <U>FOR</U> the Approval of </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>the Reduction of Stated Capital. </B></FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">5 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>OTHER BUSINESS </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">As provided by the TBCA, only business within the purpose described in the accompanying notice may be conducted at the special meeting of shareholders. If any other matter within
+such purpose properly comes before the meeting, it is the intent of the Board of Directors that the persons named in the proxy will vote pursuant to the proxy in accordance with their judgment in such matters. </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>2003 ANNUAL MEETING SHAREHOLDERS&#146; PROPOSALS </B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL"
+SIZE="2" COLOR="#000000"><B></B>All proposals from shareholders to be considered at the next annual meeting scheduled for May&nbsp;16, 2003 were required to have been received by the Secretary of the Company, 1601 Bryan Street, Dallas, Texas
+75201-3411, not later than the close of business on November 26, 2002. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">Dated: January 13, 2003 </FONT></DIV> <DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Whether or not you will be able to attend the meeting, </B></FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL"
+SIZE="3" COLOR="#000000"><B>please sign and return the accompanying proxy promptly. </B></FONT></DIV>
+ <P></P> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">6 </FONT></DIV>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>
+
+<IMG SRC="g78692g42t23.jpg" ALT="LOGO"> </B></FONT></DIV> <DIV ALIGN="center">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD VALIGN="bottom"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>P</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="95%"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>TXU Corp.</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="4%"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>R</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="95%"> <DIV STYLE="margin-left:2%; text-indent:-2%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>1601 Bryan Street</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="4%"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>O</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="95%"> <DIV><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>Dallas, TX 75201-3411</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="4%"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>X</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="95%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"><B>This Proxy is Solicited on Behalf of the Board of Directors</B></FONT></DIV> </TD> </TR>
+<TR>
+<TD HEIGHT="5"> </TD> </TR>
+<TR>
+<TD VALIGN="bottom" WIDTH="4%"> <DIV><FONT FACE="ARIAL" SIZE="3" COLOR="#000000"><B>Y</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+ </TABLE> </DIV> <DIV STYLE="text-indent:4%"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">The undersigned hereby appoints Erle Nye and J.S. Farrington, and each of them, Proxies with power to appoint a
+substitute, and hereby authorizes them to represent all shares of common stock of TXU Corp. held of record by the undersigned on January 3, 200<U></U>3 at the special meeting of shareholders of the Company to be held <U></U>in the Ballroom of the
+Wyndham Dallas Market Center Hotel, 2015 Market Center Boulevard, Dallas, Texas, on Friday, February 14, 2003, and at any adjournments thereof, and to vote, as directed on the reverse side of this card, on the reduction of the Company&#146;s stated
+capital, and, in their discretion, upon such other matters, within the purpose described in the notice of special meeting of shareholders, as may properly come before said meeting. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV
+ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000">(Continued, and to be signed and dated, on reverse side) </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"><DIV><FONT
+SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B></B></FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><FONT FACE="WINGDINGS">&#217;</FONT></FONT><FONT
+FACE="ARIAL" SIZE="1" COLOR="#000000"><B>&nbsp;&nbsp;FOLD&nbsp;AND&nbsp;DETACH&nbsp;HERE&nbsp;&nbsp;</B></FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><FONT FACE="WINGDINGS">&#217;</FONT></FONT><FONT FACE="ARIAL" SIZE="1"
+COLOR="#000000"><B> </B></FONT></DIV>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="85%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+<TR>
+<TD VALIGN="top" WIDTH="73%"> <DIV><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>This proxy when properly executed will be voted in the manner directed herein. If no direction is made, this proxy will be voted FOR the reduction of the
+Company&#146;s stated capital.</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="11%"> <DIV><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Please&nbsp;mark your vote as indicated in this&nbsp;example</B></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="middle" ALIGN="right" WIDTH="7%"> <DIV ALIGN="right"><FONT FACE="ARIAL" SIZE="6" COLOR="#000000"><B>X</B></FONT></DIV> </TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Directors recommend a vote FOR the reduction of the Company&#146;s stated capital.
+</B></FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="85%" BORDER="0">
+
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>FOR</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>AGAINST</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>ABSTAIN</B></FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000"></TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="66%"> <DIV STYLE="margin-left:2%; text-indent:-1%"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000">Approval of the reduction of the Company&#146;s stated capital.</FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="4%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="7%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT></DIV> </TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" WIDTH="13%"> <DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT><FONT FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT
+FACE="Times New Roman" SIZE="2" COLOR="#000000"></FONT><FONT FACE="ARIAL" SIZE="2" COLOR="#000000"></FONT></DIV> </TD> </TR>
+<TR>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" WIDTH="3%"><FONT FACE="Times New Roman" SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD> <FONT SIZE="1">&nbsp;</FONT></TD> </TR>
+ </TABLE> </DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV STYLE="margin-left:71%"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000">NOTE: Please sign name(s) exactly as
+printed </FONT></DIV> <DIV STYLE="margin-left:71%"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000">hereon. Joint owners should each sign. In signing as attorney, administrator, executor, guardian, officer, partner or trustee, please give full title as
+such. Receipt is acknowledged of the Notice of Special Meeting of Shareholders and Proxy Statement. </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <DIV><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>Signature(s)</B>
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+<B>Date</B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;</U> </FONT></DIV> <DIV><FONT SIZE="1">&nbsp;</FONT></DIV> <HR SIZE="1" NOSHADE COLOR="#000000" ALIGN="left"><DIV ALIGN="center"><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B></B></FONT><FONT FACE="Times New Roman" SIZE="1"
+COLOR="#000000"><FONT FACE="WINGDINGS">&#217;</FONT></FONT><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B>&nbsp;&nbsp;FOLD&nbsp;AND&nbsp;DETACH&nbsp;HERE&nbsp;&nbsp;</B></FONT><FONT FACE="Times New Roman" SIZE="1" COLOR="#000000"><FONT
+FACE="WINGDINGS">&#217;</FONT></FONT><FONT FACE="ARIAL" SIZE="1" COLOR="#000000"><B> </B></FONT></DIV>
+ </BODY></HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g78692g18u48.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g78692g18u48.jpg
+M_]C_X``02D9)1@`!`@$`8`!@``#_[0R&4&AO=&]S:&]P(#,N,``X0DE-`^T`
+M`````!``8`````$``0!@`````0`!.$))300-```````$````'CA"24T$&0``
+M````!````!XX0DE-`_,```````D```````````$`.$))300*```````!```X
+M0DE-)Q````````H``0`````````".$))30/U``````!(`"]F9@`!`&QF9@`&
+M```````!`"]F9@`!`*&9F@`&```````!`#(````!`%H````&```````!`#4`
+M```!`"T````&```````!.$))30/X``````!P``#_____________________
+M________`^@`````_____________________________P/H`````/______
+M______________________\#Z`````#_____________________________
+M`^@``#A"24T$"```````$`````$```)````"0``````X0DE-!!X```````0`
+M````.$))300:``````!M````!@``````````````/P```)8````&`&<`,0`X
+M`'4`-``X`````0`````````````````````````!``````````````"6````
+M/P`````````````````````````````````````````````X0DE-!!$`````
+M``$!`#A"24T$%```````!`````(X0DE-!`P`````">H````!````<````"\`
+M``%0```]L```"<X`&``!_]C_X``02D9)1@`!`@$`2`!(``#_[@`.061O8F4`
+M9(`````!_]L`A``,"`@("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,#`P,
+M#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,`0T+"PT.#1`.#A`4#@X.
+M%!0.#@X.%!$,#`P,#!$1#`P,#`P,$0P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`S_P``1"``O`'`#`2(``A$!`Q$!_]T`!``'_\0!/P```04!`0$!`0$`
+M`````````P`!`@0%!@<("0H+`0`!!0$!`0$!`0`````````!``(#!`4&!P@)
+M"@L0``$$`0,"!`(%!P8(!0,,,P$``A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+M%5+!8C,T<H+10P<EDE/PX?%C<S46HK*#)D235&1%PJ-T-A?25>)E\K.$P]-U
+MX_-&)Y2DA;25Q-3D]*6UQ=7E]59F=H:6IK;&UN;V-T=79W>'EZ>WQ]?G]Q$`
+M`@(!`@0$`P0%!@<'!@4U`0`"$0,A,1($05%A<2(3!3*!D12AL4(CP5+1\#,D
+M8N%R@I)#4Q5C<S3Q)086HK*#!R8UPM)$DU2C%V1%539T9>+RLX3#TW7C\T:4
+MI(6TE<34Y/2EM<75Y?569G:&EJ:VQM;F]B<W1U=G=X>7I[?'_]H`#`,!``(1
+M`Q$`/P#U#(R*,6A^1D/%=58E[SP`N,ZK]<,[)<:\"<7'X#X'JN\^[:O['O\`
+M^$3?7#JKLK.^P5G]7Q3[P/SK8UG_`(IOL_K^HL"#M+O`@'YK0Y;EHB(G,63J
+M`>CA?$/B$S.6+%+AC'24H_-*7Z6O[K.V^^]V^^U]KOWK'%Q_Z9*>C*RL<[L>
+MZRD^-;BW_J2H,87O:QO+C";3MQV5JAM7T<OBE?%9O]Z]?M>EZ1]<KZG"GJGZ
+M6HD`9#1#V_\`&,;_`#C?ZGZ3_C%V+'LL8U['!['@.:YID$'4.:0O*5U/U*ZJ
+MX/=TJTRP@V8T]B-;:A_Y]_[<5/F>6CPF<!5?-$;.O\.^(3,QAS'BXM(3/S<7
+M[LOWGKTEG];ZSC]&PAEWLLNW6-JKII`=8]SS]&MI+=VUC7V?V%B7?XPL''+1
+MD=-ZA3O,,]2IK-Q\&;[6[E4CBG(7&-NO+)"/S&GJTESF/]=:;\W'PCTS/HLR
+MK!56Z^IM;9^D\ESK/\'6U]B*_P"MV+C]<9T7.QKL2ZTQ5>_8:GAQ+:7,>RQS
+M]MSF^G_-_P`[^CL1]G)MP].+_!5[D-[ZT[R2S>O=?P>@X7VO,W.W.VU4LC>]
+MW?9N+6^QGO>]SE2SOK8.G])Q^J9?3\BNK)>&-J)J]1H<-]3K6>KM9ZFWZ&_?
+M7_A$(XYR`('S&AXE)G$79VU+OI*OT_-9GX&/G5M<QF36VUK'1N`>-X#MI<U9
+M75_K7C=*ZKC]*=C77Y&4*S4:]@;-KW4,:[U;*_SV("$I$Q`U'[%&40+)T+__
+MT#D_;[;'<9ECW/8/]+N.\U_\>V?T7^F_F_YST_4%C,]075CDU.>T>=7Z9W_@
+M3+4:_&Q695V,^PXUM-CF$N!?6=IC=N8#?5_VW<M+%PK[LFC+L9NR&6#UG5D/
+MKR:C[+GU6U;J_MK*M_KT?SF17^F_GO46O*8B/"M/Y?NO+0PRG.CK(&I5U'Z7
+M]V?_`$W)QFQ3D9)_P3!6S_C+I8V/^LMO>J_"U\GIF31AU83HJ#'69&7?:=M;
+M9/V;%!=[G/>ZJE]M=5?Z7]/_`#:H67X]/LPY)[Y+Q#S_`,57[FX[/_!_^$9_
+M-HQD#9&NOX!9DQ&``EZ:&M[RE+U>F/\`5^1"YKFG:X0>X/*M=&M=3U?"L:8/
+MKL:?@\^F_P#Z#U3T5[H=#LCK.'6T3%K;#\*_TKO^H1G7!*]J*W#?NX^'?CC7
+M^,^E%K202`2W5I\.VBXC_&5_/=%_X]WY:%W"X?\`QE?SW1?^/=^6A9O*_P`]
+M'_"_Z)>HYC^:E_@_])[<@&)$QJ/BN>^N_0\;JG1K+GN;5D8+774W.,``";:G
+MN_<M:W_MWT[%T2X7ZW9^3U[J]/U4Z6[V[@[.M&K06P_:[^1BM_2V?OY/HT_3
+M3>7$CD!!X>'U2E^[$;KLQ`@01?%Z1']Z3G_5BN_ZU];IR.L7MNKZ72PLQW?2
+ML(/M>ZK\_P#2-]3,M_/L]"K^;6]_C+_\3]7_`(:K_P"IL69]9.AO^K%^'U_H
+M;=M>(&TY59/(_F_4M_\`#/\`-9#_`/3>C>KWURO9UKZG5]2P)LH;97D/$>YK
+M&[J[M[1/NH<_]-^YL>K)(EEQ9(_S=\(&W!+]U@`(QY(2_G*XB?WX]W>^K'_B
+M<Z9_X5I_ZAJY3ZW?^+WHW_H+_P"W-BV_JCUWI5W0<2G[175=B4MINJL<&N!K
+M:&[X<?=4_P"FRQ<]U7+HZW]?^FCIKA>S%-(?8W5A]&Q^5>]CQ]*MC';-_P#I
+M4S%&0S9"00`)VNR$'%``W9B__]'I_K?T^W'M_:=%;'U60W(#JVNVN^BRW4?1
+ML_F__5BJ='R[L+-I:\5LR;W-K;BTL:T^X[?4SK&C]'Z;?TGH_P!(_P"(7;OV
+M[3OC;!W3Q'>5Q]_1>G5Y+LCHN;CO>:[!5BFUI(>]KJ]U5FYSO8Q[[/?^?_A%
+M;Q9HF'MSTTH'][^K)S.9Y3)#-[^&S9!G`'Y/WIPC^G_=3=7ZQ1G-K=74'L;5
+MZ[)9799Z;B6/NJKR&V5O])]5C<FEOHV;/TWK>G_-X;K;;"3BG%O!_,%%==G_
+M`&R]ON_ZQ9:AOKRZV8E;!&16]WV9U+FO)!.YGI/H=9OVW>K]!0-+<W]+3Z5+
+MR8NK?974R?\`2T^J]GL=^?3_`()_\U^C_F[,(0A'<</[QU'U<[+ERY9D&,O=
+MTN`XHSVUX8_U?[J)]UH)8]C&D<@UM!'_`$5UGU,Z.^ECNIY#2U]S=N.T\BL^
+MYUO_`%W\S_@_^,0>E]&Z;CAEW6,_'N[U4&QAK!'\NSW6?U&?H_\`C5UR@YGF
+M08F$.OS2#=^'_#Y0F,V:['R0.X_K24LWJOU=Z/UBQEG4J/M!J:65@O>T-#C+
+M]K:WL;N=^\M))4XR,3<20>X=8@$40"/%&*FBD4R[:&[)W'=$;?YV?4W_`/";
+MMZI=,^K_`$?I+[+.GXK*++0&V/!+G$`[OI6.>[Z1]W[ZT4DN(T19H[^*J&AH
+M:;([Z*<BFS'O8+*;6EEC':AS7#:YI53IO0^E]*KLJP*!15=K96'.<PF-N[98
+MY[=VWZ7[ZOI)"1`(!-'HJA=UJ'F\O_%[]5\JTV?9W4$F2VEY:S7]VL[F5_\`
+M6]BT^D?5[I'1FN'3\<5/>(?:27O<!^:ZRPN?M_D+123CER2'"9R([$H&.`-B
+M(!\G_]DX0DE-!"$``````%4````!`0````\`00!D`&\`8@!E`"``4`!H`&\`
+M=`!O`',`:`!O`'`````3`$$`9`!O`&(`90`@`%``:`!O`'0`;P!S`&@`;P!P
+M`"``-@`N`#`````!`#A"24T$!@``````!P`(``$``0$`_^X`#D%D;V)E`&1`
+M`````?_;`(0``0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0("`@("`@("`@("`P,#`P,#`P,#`P$!`0$!`0$!`0$!`@(!`@(#
+M`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#
+M`P,#_\``$0@`/P"6`P$1``(1`0,1`?_=``0`$__$`*T```("`P`#`0``````
+M```````*"`D%!@<"`P0+`0`!!`(#`0``````````````!@<("00%`0,*`A``
+M`00"`00!`P`*`@,``````P($!08!!P@`$1()$R$4%3%!42(6=K<X>#DC"B07
+MN!$``@$#`P(#!`4(!P<%`````0(#$00%`!(&(0<Q01-1(A0(87$R0B-2,W.S
+M)!4V-X&1H6)R0W3!PS1UM18)@I)3)37_V@`,`P$``A$#$0`_`'^.C1J%7+SG
+M9IGB!#"1;');5L65:?=UO6-?<@3//VRE$$*5F794F;5FO*<"4C[HZ5E-E*\-
+M@.%#(E#D]O\`M=R/N#<L;!!!B(VI)<R`[%/CM0"ADDIUVJ0!4;V0$$QW[\?,
+MOV^["X]%SDS7O+)X]UOCH&'K.M2!)*Q!6W@W`CU'!9B&]*.4HX5;K?/M+Y:;
+MK>O`1=W/I^HE6O#2L:N,Y@'8P?5*/R%R03^+7[E8OH;XW39J17?*6Z,9\<3&
+MXMV.X#QJ.-I\8,AD`.LER!(*_P!V'\THKX55F'FY\=5&=S?G3[Y]Q;BXBLN1
+MM@,$Q.VWQQ:!@OEONP?BG8CHVV2.-C4B)1TU7[-V&P69ZN2L<Y,6"0)E62/Y
+MN3>RKU>5=O+*W3\YSJRKMCOW5]>W3LVUI:648AL[6.*$?=10H_J4`:BUD<ME
+M,Q<-=Y?)7%U=GQ>:1Y7/ULY8_P!NONK%TN-(?)DZ9;+-49)*D+3(5B>E(!\E
+M8\^0UI=Q3IHXPI&?KC/EWQGKJO<;CLG$8,E807$/Y,B+(O\`4P(UDX;D7(..
+M7(O./9R\L+P$'U+>:2!ZCP.Z)E;IY==63\??;ARBU"]8,+_+BWG21+$-W%78
+MB06X35/E\JHJ^M6Q)93XF<XSE<H.51V3V2A/?*NF:Y9V!X1R".67%6YQ>2-:
+M-#UB)\MT!.S:/9$8C[2?#4O.UGSU]Y^!W%K:\HOUY+QU2`T=V:707S]*]53*
+M7/3WKE;D=*!5K73)W&3EKIOEA456;5\ZK,E'C;_Q12IG`65NJCEQC/@.5C1F
+M.@S(RTJP%XV69H;*<X23S2M"8:\UX#R+@>0%EF[7\%R?2F2IBE`_):@H1YHP
+M##S%"";>>SG?3M_WPP1S'#,F?C(@OQ-I+1+JV9O`21@D%":A)8R\3T(#;@RB
+M3/2+T\6CHT:.C1HZ-&CHT:.C1HZ-&CHT:.C1HZ-&CHT:.C1K_]!R/G9R\AN(
+M&F7-L0)I*[%M17-?UC6W?DIL_GD@25W,RHA$$X57JRV,D[KP4G)BK`VPL:G"
+M2(<GM=V_N>X/(TL"S1XB`"2YD'BJ5H$6O3U)""JUK0!GH0A!CO\`,OWXQ_87
+MM]-G%2.?EEZS08ZW:NUYJ`M+(`0WH6ZD/)0@LQCBW(90ZIDW.YVS8]LG+K=9
+MR2L]LL\D>3F)B3.1T]?/71,J5G*E9S@8AXSA`A(PD81I2,:4H2E.+&<=CK##
+MV%MC<;;)!80(%1%%%51_M\R3U)J2223KSY<AY#G.6YS)<BY%DIKS.7DS22RR
+M,6=W8_V`>"J**J@*H"@`:MUG:TNCHT:]A@E;F*`Z%",`BPF$O'98RC5E!$*Q
+M^I2%ISC./V]<*RNJNIJI%0?H.OJ2-XG>*12LBD@@^((Z$'ZCKU]<Z^==3TQN
+M;8.@MB0&S]93IX*SP!\*2I&<K8RT<52/R$%-LLYP*2A902/`X5_L2M&4D0A:
+M='R/CF)Y7B+O"9JU$ME*/_4C#[+H?%74]5(^D&JD@K7M[W!Y5VOY9B^9<.R;
+M6V9M6\NJ2QDC?#,GA)#(!1T/T,I5U5@ZSQ:Y&5'E-IFL;:JB<,ER*"1MHKJW
+M"'#NJ6Z.2-,U`NB)PC)4"61!FI5)1EPR.$V4(\_%-;7.>'Y#@W([W`7YW!#N
+MBDI02Q-]AQ]?56%3M=66II4^B/LMW9P7>KM]AN<X,>FTP,=Q`6#-;74=!-"Q
+MZ5`)#QL0"\+QR;5W;1(CI(:=?1T:-'1HT=&C1T:-'1HT=&C1T:-'1HT=&C1T
+M:-?_T9W>UG<LWMKEC:8\AB*I>L@YU_2$#*DL>X_"NSM[G*-R`4MJX='NX7S0
+MQ$YRM*6(P$[+!E*;"NQ/';;`\"L90H_>5Z?7FZ48;P#"IKU`$)1@#TJ[,.C5
+M-!WSN=P<CSGOCFK5I">/89?@;,`U1O18K=R*02K,UX)HG8=0(4C>C1T%:O3S
+M:B#K9[BPS'V!WC';`Y)K$V-NC';N!I:H=A9F39?CV3DK5I+(&O.,83E:<YQC
+M&.L+'2^K:1^U&>,_28G:,GZB4)'T'6YS]K\+E9_R)DBG4>Q;F)+A%/E55E"F
+MG2H-.FOLH$,&9L@<O18+%0<?,6N:&M&%"/%56+=SSJ.(1>4B`N;RP2P"I>?'
+M+AT-/96582KKRMPUO9MZ;4GE=(D]H:5@@;VG9NWD#[JD]*5'?Q?'QY#+QFX3
+M=96T4MS*".C1VT;3-&2>@,VP0H3T]21!0D@'4#&*X,4YUJ*8Y%F,5>>ZR%(K
+M*R+5G]:EK5G.<_MZV"JJ*J***!0#Z!K0R2/*[RR,6D8DDGQ)/4D_6=>OKG7S
+MHZ-&KD_2]O=W1N0<QI:1>JQ6-RP+PL<T*7Q`VO5.9.YJ/="\\90)4A7`R+<F
+M$Y0HY<-\9RK*$)ZCK\Q_%H\IQ*WY)#%^VXZ4!B!U,$I",#[=LAC8>.T;_"I.
+MK`?_`!Z]S)^-=U+_`+>7=R?W-R"V8QJ3[JWEJC31L*]!ZD`GC8"A=A"#4JHT
+MS/M"3N<+K:_2VN8#^*MA1U-LKRBUK+E@R1/7$$.\768@SV4<LHUFW?S6`#*8
+MY1A$-65+5A.,]0HQ45E/D\?#DKCTL<TR"5Z$[(RPWL`H+$A:D``DGH-70Y*2
+M[AQU]+CX/5OUA<QI4#=(%.Q:D@`%J`DD`#J=+IT_UB>Y,U?8%M'M$L-=F"H4
+M9S#,]D;CN2&.7&?G^W-/OTQ!73@*RY0M*!J"/*?$1%CPG/4C[SNCV7%Q(+7M
+M7')".@8PVT=:=*[!NH/Z:GQ(!TP-IVX[MF!#<]R9(Y3XJ)KB2E>M-QVU/]%!
+MY$C56W$&W^R[E]RBO'%ZM^P/<-/GJ/&7V3=6F;O=Z?1#X="LT;6G8F[-A()>
+MC6_/))*/*L]DH3G"OKTZO,;/MCP[BMARJY[>64UO.\2A%BB##U49Q4D4Z!:'
+M3:<4N^XG*^27O&[?G=W%/"LK%VED*GTG"&@!KU)J-7+Z@X"^U36O);CW/[1Y
+MX7?=>A66P`36UHN)V?L6$>M6-5BY:VPS&:@)5P$%CJ%GL4$RB7P!.BY,A_\`
+M$X:K9J.M++9GN!VGR?&.16^*X#!8Y]K<K`S00L"9&6-BKJ*I(B.TBDJ*;*JX
+M<*-.YB>#=S<=R+`SY+FTUY@UG#3*LTJD!%9U#*QH\;NJHP#&NZC*4+'6D^[;
+M2O+C3D&GF!Q6Y+\I*U2XY^W%NS5]<WWM?%8J:'1PAA]AU6M8M2F476EOUI9S
+M$>!&6;;)6YQ-QM_O%#SNQV;X?FI_^S>6<8Q4MZRGX:=[2#?)0$M#(_IU9Z>]
+M&Y]YJ,I8ML!P^\>'Y5B8?^Z^,\BR<=FK#XB%+F?8E2-LJ)OH$K[LBCW156"A
+M=]+!_6M[&J3S%XJ.]HWVP5^J;'TO#X9<BPO'+.(BH0L7%NG^-D82M06\93[;
+M$QCA\A6<)"T<-W;;&5):^:F[[F]MK[AG+$Q6/MY)<;>O6SH"S-N8#T?,M)&S
+M!?:P*-TW4"\[>=P+/EO&&R5]/'%D+-*752%5=JD^KY`1NH+>Q2'7[M31HTY/
+M\O\`V^>PQ5$XR[LWGQUXN4@:\2,QK"\VW7YX[5L-(8&_O=L'`2T2WE-B;$D2
+M8!$,G23?CQF$/XUC:/G!'W?BW#NSO;KX_E&#L,ERJ<]%GBCF!G8=(H]ZL5AA
+M'61EIO()J"\:AEUY)RONMSWX+CF8O<?QJ'Q:&1XB(5/65]K*#+*>B*:[00*$
+M*[&9'OA?[0XO\<.,-@T1R$Y(:\D(*[R&K91_#[]VXF<N\1(U5_802U[GLW+[
+M^U6%A(5M>4/'F3./!X0:5I$D8THOL''BN4\EY3;Y_CN,N8Y(!.H:TM]L3"0(
+M5B3TZ1H0_55H/=!H22=*WO:^2XWQ_C<^$SV0MW28PDK<S[I%*%PTC>I5V!3H
+MS5/O$5``&IW>E38NP=J^O;5-UVA>KELBXR-GVDWD+;?;/-W"S/@1^Q+$R8!>
+M3UA?2,HZ"Q9`0$*5E5@0D)0G&$XQCI!=[L;CL3W$RUCBK"&VLEB@(CB18T!,
+M*$D(@"BI))H.IZG2V[/9"_R?`\7>9*]FN+MI)@7E=I'($K@59B6-`*"IZ#IJ
+M='*&7EJ_QGY$ST#*2,).0FB]MR\-,Q#US&RT1+1M`L#R.E(N19E"\82+!X%!
+M0'$M!!$0E2585C&>D'Q6&&XY/QRWN(E>![^W5E8!E96E0%6!J"""0010CH=+
+M7DLLL''<_/!(R3)93LK*2&5A$Q!!'4$'J".H/4:0XTCRJYA7'3/,F\3G,GEH
+MYEM1:3U_9*9C'([<8T,;%9^3^A:`\DUY1=$X-X5&SRC7`EI4G.7GG]%#3U/K
+M.<3X;99KA=C!PO$"&\OI4D_8[;JB6-U*%_-=/Q$1J_W:>!.H28;DW++O$<MO
+M9N6Y0RVEG$\?[7/T=[RVB)_.?D.ZT_O5\M?_TMDAKY$V.>L3/:"7CBL7JPR=
+M@DI>/"%W/4RSS+E9B7."27`U2&!*)A,E&9($,PT1@:EA<A9NVMI]SBI[.ULY
+M,(5%[:PK&J,2$FC04]%Z?9K_`)<E"8G-0&1I(Y/,;C^36.6R>6M^9B1\-D[J
+M2>25`&FM+B5B3=PUIOI6EQ;ED2ZB`4M'-';SP:;=J3.4*:_"S:&Y<.&;67A9
+MB-,IW!6:OR*5$BK'79'(Q8D(:3$C.1K\4$&1*PF0(XBB1L<;D[7*VWQ-L2*,
+M4=&%'CD7[4<B]=KJ?$5(((92R,K%/\BXYDN,9']WY%48/&LL,L9W0W$$G6*X
+M@>@WQ2`'::!E8-'(J2HZ+N=[C,/-9Z8NX$9^-U'W/7,JX7G"B.K)0K"*P*5E
+M>$I[(:TC9$`V0G/EE*08SY=LX2G78N8QYKD>,8]5>&X4>R.>,Q_VS6\[$^UO
+M#S*AY-9B?AW;WD<:^Z\5W82L?%KBRG$]:^Q;._LHP.M`@ZT(`S\#%JJG':[7
+M@_\`Q/=J76+U'7TK3C_RJ[34Q&RMCN!95WRDC*<53Q)4G'U0Y,GRQCR2K$NI
+MQ?\`+\9C%ZQV-LUW)]$DV^WMP?K3XL_6JFG@1L\99'!]I^1<DD]VXS>1CQ<%
+M?O06GI9"_8?2DQQ2@CQ$DBU\08_]*S37:R0(E^=D63P'(8P)<MUR#C/PM%.L
+M)&3+,!5]ONWV!E2O(!867`\^>4X1C*L=+W$22K!NK.17:.II[2/)?+<:"O2M
+M>FLN*QN9;9[P1[;-6VEVZ+NZ'8"?M/0@[%JP7WB-H)&-Z[M8FI%\0K$>J<J.
+M.DZ!1$X:;IUN%U@./(JXV1MD7&2H1)R4*5$/&/"H3A2L)SE7U^G?I(=P;-;_
+M`(+R^U8#WL;<$5\-RQ,RD]#X,`?#ZM.QV&RTF#[U]I\G&2/3Y%8!J>)CDN8X
+MY0.HZM&[`5('7KTT]3U5]KTKZ.C1I+?TF?[<N0/\I\B_ZK5;J;/?#^4''OTU
+MG^HDU$'LY_-/._HKK]<FG2.H3:E]K#6*NP5N@)NJVB(CK!6K+$R,#8(*7:A?
+M14S"RS0K"3BY%DX2L#MB_9'6(HUXRE:%9QG';/7=;7-Q9W$%W:S-'=1.'1E-
+M&5E-58$=000"#[==-Q;P7<$UK<Q+);R(596%596%"I!Z$$&A&OSA^=&LV/#'
+ME;R6X\:,VS(RNM'C@57FFL!.22?DJL@\@[P+55\.)8VMAD:--,VC=Y^\9"W;
+M'&2X$XP9N*RC@>4DYKQ+C'(\]B%3)J-ZEU7\X`T7KQ#Q02J6*^!VMTJNUC7Y
+MS3')Q#D_(L#A<HS8XG8P5C]@E9/1D/@YC8*&\1N7K1JJ'0/3SQ>U'QRX8:YF
+M=;3\#?I[=T'#;+V'LR!\B-++-/FI<,Z\Q*X"!^"&U\,YHP35P@)Q/4.RE"`Y
+MS"1"CO+RK,<DYMDH,G;R6]O8R-##`_BB@]7-*@M-0.6!(*E`&954F7O:?C>*
+MX_Q#'S8Z=)Y[Q%FEF7P=B.BBM"%BJ4`(!#;R0K,0((_]ES^U+0W^0H?Z;WCI
+M>_+'_%N?_P"7?[Z+2)^8G^&,)_K_`/=2:ECZ%_\`6AIW^;-O?U.LW22[_?S.
+MS/Z&W_4)I4=D?Y=8G]+/^N?5A/+C^U+DY_CUNC^F]EZ;KA_\6\7_`.8VWZY-
+M+SE7\,<C_P!!<?JGU^>UQH_MF]C'^/6FO_L_C9U8ER?^*.V__,;G_IM[J!_'
+M?X<Y_P#Z"W_ZA::__]/H5BTY#HN%KI-=N<9%6VJ6:;K#^F[*=L*<[))PLNXB
+M736&NKPP:1)):%:KP4DH>O&(K&,!;$SG.$VBV?(K@X^PR5YC7DL)X$D6:W#3
+M#:Z!P7A`,RU!%!$LX'WG'GYH,MV_QZY_.<=Q/(88,[8WDUN]ID&2U8R0RM$R
+MQ7;$6<FTJ=S7#V+L:".%B2!T.IM\0B$<;^4T%8Z!79(Q)+7-YG8-\":T[9)H
+M@_BLC`3O[?-AT];"X2J:9ME$"5'C),5_<#5ASJ+]S<D\QX-=0W=V@VW$".I2
+M[C3QC8BOIW<0J(78`@UAE&PC8J\'$,<J]H^]>-N\7B9F,EA>30N)L5<3$4N$
+M#;?7Q5R:&[BC+(PVWELWJH?6S,WJ*WU+1._]:7*/2VM.CMCZNVG'F:'P_AY6
+M@WYK-:\L%HK4D+&&LO6[))/*<Y9/P94)RU\5=OT>&-;<@Q]_RCBF:QTVZQR=
+MG<VK`C:ZSP%+B.*13U22-1=JZ-U5JCZ]AD>"9[!=M.Z/#^06H3-<;R^.R2%3
+MOBELKU9;&>XMY![LMO<2/BI(9D)62.A_P^7)BDST39M$<5:A`2LY;]8:OKK6
+MQ5B!CW$O,/\`<>U4JV?>6H&T<,Y9)_$M)Z.B%Y&E2ACB,(5G'Q9PDX7DK6XL
+MN4\ZR%W'%C[Z^D,<CL$1;2U_9H"2U`JN4DE%3U,M1]KK]=X>.92QS';/LE@<
+M7/<Y[#8:!9[>&-I97RN2KD;Q0L88R/$LT%J=H)5;4*?L4'*)JB4;3?R-MAR$
+M??\`9HAIS_ZTJLNAU4*B\[I4H&R[Q"NO&6E&Z<>)82O.%*&I><.91H<!&9-[
+M;93)\BH^(A>TPI/_`!,J4EE'MMX7'N*?*:=>H%4@D5A($/D.,\;[?[H>5W46
+M4YBH_P#S[:4-:VK?DY"\A;\61?!K.Q<E22)KV"6-K=N+V&R2]H?)?RQ@J4(*
+M&K)FR9M(N*BV0LJ4-C$Q$<!K&Q;)"UJ7\8!(2HBUD5Y$6M2E):65O8Q&*W4T
+M)J2Q+,Q/WG=B68^56)H``*``!O,KE[[,W(N;Z1254*B(BQQ1H/!(HHPL<:`D
+MG:B@%BS&K,Q."ZRM:W4F^%M4-=>6O'.OA"IP@FX:++/0HP3.21-;GF=DF<9R
+M%8RC3B)B3Y4M*L91C&5?JZ17<B_7&\!YA=LU",=.H/\`>D0QIXU'VW7IY^&G
+MC^7G!R<B[Y]IL7'&74Y^SE<"O6*WF6XE\""/PHGJ0>@Z^6GF>JQ->DS1T:-)
+M;^DS_;ER!_E/D7_5:K=39[X?R@X]^FL_U$FH@]G/YIYW]%=?KDTZ1U";4OM5
+M=^V#GS'<$^-\A*UYZT)O3:")*HZ:B"H$X6QDL-AXG+^^:%\ADB:,S>#,E*TK
+M&>1,T`M.1E(I#J=I.W\G/>2QQ7*$8&UVR7+>%5K[L0/Y4I!'2A"!V!J!5MNY
+M_.(^%<>DE@<?OJYJENOC0T]Z4C\F,$'S!<HI%":4&^N7TTKY>\6=S[_WW)2\
+M1?-X0\H'CA-R[V26ZB9EO+8F'.XK4W2O+J;9VZQLLQZ1'\UGB5OG*$Y(Z9.1
+M2`[D]Z1P[E>$X]Q^)'Q]BZ_&*H6C*5VBWC/@IC0[ZCH)`BGHKJ6.[?\`:,\K
+MXSE\[G)'2^O4;X1F)JK!MQG<>+!W&VA\4WL.K(PW3TG\QKIQ*Y`W#UO\F_O*
+MLPF;W+0=!!/N$I'0-TA=J9R%.$X.K`LUK9ZQ(7'+`138DOD*VZ%_E"FQA=[^
+M&67+^/6?<KB^V61+=6E*#\[;4J)*#[\'@X(W"/<&(](+K,[.\MO.+9V[[?<C
+MK$CSLL6X_FKBM#'7\B;[I!H7H5!]0G4V?^RC!RK_`(>:=FV;(SB,@>0\0F8<
+MB3YICTRVO;\V8F<XQW4-N9T'XODS^Y@JT(SGR6G&4/\`+-/%'S+,P.X$LF.;
+M:/;MFB)`^D#K3V`GR.EC\PT,K\3Q,R(3&E^NX^S=%*!7Z*]*^T@>>N^^@&T0
+M$YZY*+"Q4HT>RM,V%M*#L[`!4J<PTI(6Y[:635Z+&?,2W4#8&CE&<X[*0;';
+M]&>R>^82UN(.Y-_/-$5BGMH&0GP91&(R1]3HP/TC6\[&7,$W;^RABE!EAGF5
+MQYJQ<N`?K5E(^O5A7-VS050X<<IK!9)-K$Q#/C]ML!GCLF!CRZDZ--Q46S%W
+M^I7DG*/0MFXD]UF<&0-.,J5C&6[X-:SWG,^*6]M$7F;(VYH/8LJLQ^I5!8GP
+M`!)Z#2\YE<06G$N33W$@2(6$XJ?:8V4#ZRQ``\R0!I`KC'#21^)GLGL`FAEP
+M\9H[0D,_?I3G(&TE.\Q=#O8EH1?;Q29ZUKKU:,9^N<-U]OT9ZL%Y1-$O+NV=
+MN7'K/?W;`>95,==!C_074'ZQJ#7'(9&XOW#G"GTELK92?(%K^V*C^D(W]1U_
+M_]2TGVG<7:_K;DQ);$>VL=0J&]B.K=''-69N5CFEJ:A:!N[,[N(&Y+EV[EBH
+MD<IP)2NTEC'UPE6<3K[&\XN\SPN'$1V!N,ABP(F`D16,1),)`>@H%!C\?\OZ
+M1JDCYU>R^*XCWAN^5W&;%A@>3%KJ-C;S2QK<J%%XI:(,=S2D3D!2?V@>0)$8
+MM57V/HL42J$Y,:RL6N<.4NG.J]N:EV=?M=R)CY(IP9A!$I,L6M2&5H2HCZ*/
+M%2'EA&4'[I_=6V=Q4V4G%^.%WL.8VT%U:W5M!<*!X!G$RB1?&B2K+'XU3KU9
+MOA/)[3C5BV#;O#A[OB6_<V-RF,R-[8R$UW%(3:2FW>M"TUL]M/7:5EJ.C#?#
+M.C<?=R:-CG3"O-9>(^PEZ?%-59VBYKS*EMK77+.[J]&FML5.KVR8H[.X5YJ[
+M0T6ZG&\,Y6L`78L&(#$1NXV4Y;QWD\R2W;1W&])F/[,)#,8I(Q),EK+)$DQA
+MD92X6%IE`9HVVJ^K6/E]XUVL[@=MK2:VQ23V'I2VL2__`&+0):+<V]PUO9RY
+M.VM[F6S2Z@CD$1DO$M)"T4<Z>H\0B-S=UE5Z/+[==T?<)--1MXD965W;?ZSI
+MV_;5N\Y+6Q1)@M-OVVZH]>*UE1L-,B"UKK9O&A,Q'YGP\PO.$N!VSS5]D[?C
+M\>3X\,C-:HJV<$EW!:PHD7N":"UE`^)FK4M<,TA#FB^G2I8GYC>'8;C=_P`[
+MGXWST\?L\E+))E[VWQ5[DKR:6YK*;2]R=L[_`+OL]NU([&-+='A7=*+@,0*0
+MW>L>/[9P0(>3K9^-'AXNVFG+\AN7R0E>?C2^(R=8^-2LISYB3^\G/;OCMG,E
+MX\WRQT#-PDH3Y&[@J/\`V@CZ>A.JY)^&]K8I6CC[RI*@I[RXJ]"GI7IO*-T\
+M#51U'2HH3I,Q3]8,7>11>X0S;/*<*&[%0K.P7C]2D':O<CR,F%8SV\%D3E/;
+M/EC/=.-G;Y'-RQ[I^.F*3V&>)OZBO^T`_1YZ3E_@.&6TY2RY^MS!3HPLKA#]
+M15Z4/U%A2G6M0-.G8JN,``)"6K$^99<H,W_!R$5D`_#*L&P1VM8RXRK'CE.,
+MX5COC/UQW[;&UGO)687-AZ2@=#O5J_1T\-:#)V6(M8XWQV;^*D+4*^B\5!3Q
+MJQ(/7I3QU=)Z3>/CVQ[1MW(N98K17]=Q;RGT]T4?BE[=K.S2*:<,R90K"\05
+M2.4)\8RG/>6%VSGLO'4;_F4Y;'9X/'\/MY?VN\<32@>4,9J@/^.4`K^B;Z-6
+M&?\`CJ[5W&6YGG>[.0MB,5B87M;5B.CWEPE)F0TZ^C:LR/X?\2E":,-,T]0L
+MU<5K%3KR2CH66?P\.2PRS*->NHN!$]9QI)F0`V(5G%HD9!8V+#+]PE(OF-G`
+MQ>7DKZ8Z[8$BDGACFF$<+,`ST+;03U:@ZF@ZT'4^&NJ=Y(X97AB]24*2%J!N
+M('1:GH*GI4]!I7OUX>N/G_Q/YR&Y+[`UMK.2I]]S?H;8<;6-GP[F6A8C8<J.
+M=-(UUN_&V&^)!3K)J3(2F0L[1!$)5@BDYZE/W&[D]O>6\$7C&.R=TM[;^DT+
+M/`P5FA791R*TWH6%0.C$&E`=1MX#V_YUQ?FAY%?8ZW:TG]590DREE65MU4!I
+M7:P4T)ZJ"/'31$NY?LXN0=14;^8DP-#DCXK+P,<F0>)&K+9J1^X2L3()C=L+
+M+E*_C1W5A"\XPG,5X5C>6-)9=D1(JU":#S-!X_0.E?:/'4DY6=(Y&BCWR`&B
+MUI4^0J?#Z^M/8?#2Q&Z?4QSGYV<U:]NSF18]05S1X9AC&NZ1K?8%IGI:J:H@
+M3/))I0ZGA_3H499>Q.EJ'(2JR-\X=/CO$!Q@8FF)1X3N[P/@7"+G!\+MKR3.
+ME"PEFB1%DN'HIEDI(WNH.J1T/NJJ$]2^HX9CM=S3FO,(,QRVXM(\,'`,<4KL
+MR0+4B-*QK[SGHSU'5F<#H%TSG!0</6(2'K=>C6<-`5Z*CX.#AXX`VL?$P\2T
+M"PC(U@V%A(FS-BR;H$(:<82A",8Q],=1=GGFNIYKFYE9[B1RS,34LS&K,3YD
+MDDD^W4CH(8K:&&WMXPD$:A54"@55%``/(`"@'LU0O[<_43;^9-\H>_>-4A3:
+MCNU@@%>V,JT3$G66%K@X@"2TZT-9:%B)<X;?52@^RRM8L+=,%M\8*/[$:"/]
+MV?[P6?"[#(<?Y/'--@VJ\.Q5<QLQ_$0JS*#')7=2ONN&Z'U"0R/=3M5=\MOK
+M'.<=DABS*T67>Q0.JC\-PRJQ]1*;?#JNWJ-@!G+4^/6Y>2_#*P<8/8A7J9(V
+MF5K3:JRNPM96U4^FSN8SX75;V8V!)5:O+JFP8.69MW1`X`\CW#H'R]_A.1D-
+M"7?(L+QCFMORGMS<SK:)*9%AGCV;`U0\!*R/ZD+*2H-5<*:?:4.5I:X'+\BX
+MC/QOGL$+7+1A&EA?=O(H4F%479*K`,11E+"O@Q0+I"]8WM[]=FRK39>$UI<7
+MJK3"%`)9]<S-%0J?AF17*X8=ZT[M,Y6#V>9C.50T-VTV)JLJ\!<]R*QF2![H
+M]G>X^,M+7G%H(+M.NR99?<8TW>E<0"H0T%:M$6H-R]-,".W'=;@.1N;CAUR9
+M[9_OQ-'[RBNWU()C0L*FE!(%J:-UUX[%XR^^KV%8CZ'OQK.UG6BI)B9XQNTK
+MK/4^NV)FCC"VLC.U&AH#:;;F/<>1Q+)&2I0KQC(_'L/&.<;RCL#VZ]2_X^\<
+MN3VD`Q+/<3$$=0DDM8XZCH0'C!\Z]=<9#CG>_GGIV6<5X\=N%1(T,$0H>A:.
+M.CO0]15'(\O+5RE,]-%(H?KCW!PKKNP,`V1O--5LVP]S'@_F;25YI5IK=QK,
+M<VA/ND.VU#B7=:0Q$'YU.4B=NG6/^8V1X9:][TWV0[DX;F]SCZXRP]1(;8-0
+MK%+&\;DM2AE8.6)I2JHGV5KIW+3M'96/;_+</M[ZF0O=CRW!7H9(W21`%K41
+MJ4V@5K1F;Q--?__5=CY8<9:9RPT[.:NMF4QSY:DR],M0VR7+VH6UF(J(Z9;A
+MRL67+4@S$;/&_FC[AF8B,*&3P*A9\#YKD>!\AM<Y8>_$/<FBK198B1N0GK0]
+M`R-0[7`-"*J6@[X]G./]\.`Y+A><(BN2?5M+D+N>UND!$<JBHW*03'*E1ZD3
+MNH*MM=5*[II]IPYNCV"WW247C;$=A$C5M>NEOQZLQ'$.Z1$W"W6!D1@ZO4:]
+M^V29O#1!AMU>6123T)P.HK,^,;R&3N)C8[KBN2^%P+^[+.-OQ.Z@WQ11G<(&
+M%:--*"WWH8F5HY]48<AX%!V`Y#<8SN?QT9+G$5)+:Q8N,;Z9+"*ZNIT*->1O
+MM#QVEJZQFNR[N(Y8Y[+7>=7\M-J4+5E_Y'S]LD);8MNVYI_5>OVP"-XF)KU"
+MU>_1MK8E9J]>CQ-H2`IQ\"K<66,8-VS-+:06E2%8*O'25S?`L%E<[BN'6E@D
+M>'M\?=W4Y-7>2>Y7X6WDED8EY)A6XE$CLS[HP01M&G.X9WSYMQCA7*.[>4SD
+ML_++_.XK&V*@K%%!98YQD[ZWMH$"PP6II86S6\,<<0CG8%2';7T[+V.*?W+<
+M]<-M@OM=WRL6!^^XN;]8S3ZJN7^L+<G%OU]I[95B:/&AL5!]69YEBOS+E:T0
+MI%X;.<XBS9(Q^,+AS:<=QN8?$K>8J>%5R=BR+*%N8OPI[NWC((]59$?UX5`,
+MP&]/QUI+V\PY:F4[@<AXE%RF3$\FLKIWXYFTE>V9\==?M5CBLA.K*?A7MYH?
+M@;N0E;1B(92+*3?;0[LVQ<NYF4K>^]1Q+ZU0SYU%3<W7V0=0[1CY%BK#5PTE
+MUPT.>ERSX;D.<NCR]<?2AU]\Y=I4I2LN'98?T[:"\XKR"1;&10R)(QN[9E;J
+M"F]Q,JT/NK%<)&H_RR`!I@\QRPSY"]Q'<_@D$N;MY&CFF@08O(I(GNLLIBB-
+MI*X8'U'NK":X<UK."23H;RGU"7QD]$O34ZU=\_P[?F[6C3HNR?E/\,P:1D*&
+M^9M49\4E+*L7;I2<Y0R1G.$=;6/(Y"W]W*8M@/\`Y("9T/D*H%6=2?$@1.BU
+MZR'J=)B?`8&^_$XSR5&8_P"1>JMG,/,TE,CV3HHZ!FN899"#MMU)"ZZYQUX>
+M[FY&;7CM85^L2T`D>&LE;[1/13UI#4^KE<D"2<>D,,*7:W7VY4,&XE>;\Z,I
+M1G"$E(-/\O[A<<X?@9LW=WL<I-5BB1E+RR@5V+2M*5!=B*(IJ>I52N^T_8/N
+M#W:YO:<-Q6&GM5&V2ZN9HW6*UMRQ!F<D#<6VL((U-9G!"D*KNCFND=-4K0&K
+MZEJ;7[%3.MU*.PU$4^4+D):0.1;J6G98Z$(2XE9F1,1P=6$I1A2_$:4#2A":
+MY^3<BR7+,Y?Y_+2[KRX>I`^RJCHJ(/)44!5\Z"I)))/H,[<]O^.]KN&8+@W%
+MK8QXBQBV@FA>5R2TLTI`&Z260L[D``$[5"H%4=6ZT.EOHZ-&CHT:.C1HZ-&C
+MHT:.C1HZ-&CHT:.C1HZ-&O_6?XZ-&H?<P=?<1-G4Z-J/*JRZXJ`'RGQ*78[;
+M=ZQ0+7%/1(!A\ZID]//69LJ%YARY;X2X9F[#^X"3&$8Z<+M[ENX&$R,V0X+9
+M7EPR[?6CBADGB937:)D0$=>NUO=<==C#KI@^_G%NQ',L!:8'O9E\181RES:3
+MW-Y;V-S$X`WM:33.IZ54R)1XG]SU8V`4:7XY0\,X*N:[ULST5R?XX[.U579#
+M8A(G\UNW6-,LDU>9F4AWUN6S<S-I;4>8<PU.'5F;K#>2"YQD(BK;#2Y"C$LN
+M$=QKJ\R^9DY1PG,66=F2WW;+.YFC2%%=8JA(C,@>;XEUW1E>K*'8HQU5KWG^
+M7W&XGBG$;?MIWEXEF>$6DM\8O6R^.M+B:\EDB>Z*-+<K9RM%:#'12!+A9/=1
+MVA031J*]=QLYMF[I`+0%H"T,-?5F$F<MYF$F/O6D2T\*+)`<0DA(MSQ#K5;B
+M`2Q<X(H+MN/"PJ4CMG#M<=DMI(\FUBS&Q>[D=*HZ4+G\=2'52'%T)]ZTJK&C
+M`'45>?V^2@GXY%FHT7-18JWAEVRPR[UB6EG(&A>13$V-:R$,@8K*BAHR5UO>
+M(:?VI'LZAL#$74-HUJO0Y:A;]DVBOZ\_B>D_@F[ZMU*VNKW*0(SHS`F:JJ\X
+MI?@EDH;)PM;#+(\;J_B;3!2R9#$E[C!S3.)8K>*2X].;>5DEB$"O3WPPN80*
+MEZRH!+ZBS*08_*<UM;?`\I$-AS2SM8C:W60N8+'XBT]%7M[:Z:]DA!'HF,XZ
+M\)H(2EO*S6IMY;.6/'S@)I>?>,9KD?S3XS4*`2H)G%+HV]-6V2Z/485GYV+R
+MP+L!*I75=NV4G;_FL*^J?!'T5A!\M[K<DM(Y;;AW;?-7=WU`FGLKF.$>QA'Z
+M?JR?X6]'VU/AI\NUGRO]O,I<6V0[M_,/P[%XL$%K2SS..N+MQYH\YG-M!]#I
+M\77J-J^.F:N-E<X]5'5\?7.,KVA26M(E^Z:??Z^LL7;XYW8$-V?Y-Q,V.,D9
+M7,I9"@R#+@C@ZW'AD>,]D81C$*^97G+LAG);SFL5TF:D0';/&T3".IVA(V5=
+ML8.[:%4+6OG75Q?:'$=JL%PRUQ'9RYQDW#X)67?8W$=U&TX5/4:6XC>3U+@C
+M89&D<O38#10H'?.DKIS]'1HT=&C1T:-'1HT=&C1T:-'1HT=&C1T:-'1HT=&C
+#7__9
+`
+end
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>g78692g42t23.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g78692g42t23.jpg
+M_]C_X``02D9)1@`!`@$`8`!@``#_[0K*4&AO=&]S:&]P(#,N,``X0DE-`^T`
+M`````!``8`````$``0!@`````0`!.$))300-```````$````'CA"24T$&0``
+M````!````!XX0DE-`_,```````D```````````$`.$))300*```````!```X
+M0DE-)Q````````H``0`````````".$))30/U``````!(`"]F9@`!`&QF9@`&
+M```````!`"]F9@`!`*&9F@`&```````!`#(````!`%H````&```````!`#4`
+M```!`"T````&```````!.$))30/X``````!P``#_____________________
+M________`^@`````_____________________________P/H`````/______
+M______________________\#Z`````#_____________________________
+M`^@``#A"24T$"```````$`````$```)````"0``````X0DE-!!X```````0`
+M````.$))300:``````!M````!@``````````````/P```)8````&`&<`-``R
+M`'0`,@`S`````0`````````````````````````!``````````````"6````
+M/P`````````````````````````````````````````````X0DE-!!$`````
+M``$!`#A"24T$%```````!`````(X0DE-!`P`````""T````!````<````"\`
+M``%0```]L```"!$`&``!_]C_X``02D9)1@`!`@$`2`!(``#_[@`.061O8F4`
+M9(`````!_]L`A``,"`@("0@,"0D,$0L*"Q$5#PP,#Q48$Q,5$Q,8$0P,#`P,
+M#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,`0T+"PT.#1`.#A`4#@X.
+M%!0.#@X.%!$,#`P,#!$1#`P,#`P,$0P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`S_P``1"``O`'`#`2(``A$!`Q$!_]T`!``'_\0!/P```04!`0$!`0$`
+M`````````P`!`@0%!@<("0H+`0`!!0$!`0$!`0`````````!``(#!`4&!P@)
+M"@L0``$$`0,"!`(%!P8(!0,,,P$``A$#!"$2,05!46$3(G&!,@84D:&Q0B,D
+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
+%0&@__]D_
+`
+end
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
