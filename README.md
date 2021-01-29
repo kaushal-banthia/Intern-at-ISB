@@ -1,8 +1,8 @@
 # Intern at ISB
  <b>Winter Intern at ISB</b>
 
-Created a program that found out clusters of keywords located in the DEF 14A files of S&P 500 companies.<br>
-Then compared the paragraphs (found via the clustering algorithm used) to a set of keywords that hinted the CEO's compensation being based on socio - economic factors.<br>
+Created a program that found out clusters of keywords located in the DEF 14A files of S&P 500 companies, which were downloaded from the Securities and Exchange Commission website.<br>
+Then compared the paragraphs (found via the clustering algorithm used) with a set of keywords that hinted the CEO's compensation being based on socio - economic factors.<br>
 Finally made a dataset that contained the name of each of the 5000+ files and the number of time the keywords appear in them.<br>
 <hr>
 This repository has the following files and folders:<br>
