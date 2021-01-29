@@ -6,12 +6,12 @@ Then compared the paragraphs (found via the clustering algorithm used) to a set 
 Finally made a dataset that contained the name of each of the 5000+ files and the number of time the keywords appear in them.<br>
 <hr>
 This repository has the following files and folders:<br>
- Extra: Did as an extra work for helping out another teammate.<br>
- Files: This folder contains the DEF14A files for 3 companies. Due to space constraint, others could not be added here.<br>
- Output: Contains 2 files.<br>
-        Output.csv: Contains the final dataset created in .csv format.<br>
-        these_files_are_not_present.txt: Contains a list of those files that did not have the words "executive compensation" or "executive remuneration" in them.<br>
+<b>Extra:</b> Did as an extra work for helping out another teammate.<br>
+<b>Files:</b> This folder contains the DEF14A files for 3 companies. Due to space constraint, others could not be added here.<br>
+<b>Output:</b> Contains 2 files.<br>
+        <b>Output.csv:</b> Contains the final dataset created in .csv format.<br>
+        <b>these_files_are_not_present.txt:</b> Contains a list of those files that did not have the words "executive compensation" or "executive remuneration" in them.
 <br><br>
- first_iteration.py: Contains the first version of the python code<br>
- second_iteration.py: Contains the second version of the python code with major updates and improvements.<br>
- final_iteration.py: Contains the final and refined version of the python code that is being used for the research work.
+ <b>first_iteration.py:</b> Contains the first version of the python code<br>
+ <b>second_iteration.py:</b> Contains the second version of the python code with major updates and improvements.<br>
+ <b>final_iteration.py:</b> Contains the final and refined version of the python code that is being used for the research work.
